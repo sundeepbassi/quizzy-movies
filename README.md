@@ -113,7 +113,7 @@ https://www.youtube.com/watch?v=C7NsIRhoWuE
 
 https://www.youtube.com/watch?v=C7NsIRhoWuE
 
-5) The Javascript code for creating the variable for messages and score is accredited to Kevin Briggs Javascript tutorial: make a quiz
+5) The Javascript code for creating the variable for messages and if variable score is accredited to Kevin Briggs Javascript tutorial: make a quiz
 
 https://www.youtube.com/watch?v=C7NsIRhoWuE
 
