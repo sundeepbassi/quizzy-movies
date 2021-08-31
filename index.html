@@ -4,10 +4,39 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="assets/css/style.css"
-    <title>Document</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>A Quiz About Movies</title>
 </head>
 <body>
+    <h1>Quizzy Movies</h1>
+    <H2>Have Fun At The Movies</H2>
+
+    <form id = "quiz" name = "quiz">
+
+
+        <p class = "questions">What </p>
+        <input id = "textbox" type = "text" name = "question1">
+        
+        <p class = "questions">Which movie had a dead horse in it?</p>
+        <input type = "radio" id = "mc" name = "question2" value = "Godfather">Godfather <br>
+        <input type = "radio" id = "mc" name = "question2" value = "Sins of The Father">Sins of The Father<br>
+        
+        <p class = "questions">What movie frightened people in the water?</p>
+        
+        <input type = "radio" id = "mc" name = "question3" value = "Jaws">Jaws<br>
+        <input type = "radio" id = "mc" name = "question3" value = "Jurassic Park">Jurassic Park<br>
+        
+        
+        <input id = "button" type = "button" value = "Have a go it's fun" onclick = "check();">
+        
+        
+        </form>
+        
+        <div id = "after_submit">
+        <p id = "number_correct"></p>
+        <p id = "message"></p>
+        <img id = "picture">
+        </div>
  
     <script src="assets/js/script.js"></script>
 </body>
