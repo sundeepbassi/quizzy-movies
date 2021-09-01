@@ -117,6 +117,11 @@ https://www.youtube.com/watch?v=C7NsIRhoWuE
 
 https://www.youtube.com/watch?v=C7NsIRhoWuE
 
+6) The CSS code for creating the style for the quiz is accredited to Kevin Briggs Javascript tutorial: make a quiz
+
+https://www.youtube.com/watch?v=C7NsIRhoWuE
+
+
 
 
 
