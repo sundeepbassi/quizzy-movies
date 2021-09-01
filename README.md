@@ -111,6 +111,8 @@ https://www.youtube.com/watch?v=C7NsIRhoWuE
  
 4) The Javascript code for creating the variable question is accredited to Kevin Briggs Javascript tutorial: make a quiz
 
+I set the variable var to let as let is used more often as shown in the LMS of Code Institute.
+
 https://www.youtube.com/watch?v=C7NsIRhoWuE
 
 5) The Javascript code for creating the variable for messages and if variable score is accredited to Kevin Briggs Javascript tutorial: make a quiz
@@ -120,6 +122,16 @@ https://www.youtube.com/watch?v=C7NsIRhoWuE
 6) The CSS code for creating the style for the quiz is accredited to Kevin Briggs Javascript tutorial: make a quiz
 
 https://www.youtube.com/watch?v=C7NsIRhoWuE
+
+7) To add the previous and next buttons is accredited to the W3Schools 
+
+https://www.w3schools.com/howto/howto_css_next_prev.asp
+
+and to Oston Code Cypher
+
+https://www.youtube.com/watch?v=4BBWQzfgaio
+
+
 
 
 
