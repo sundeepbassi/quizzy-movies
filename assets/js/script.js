@@ -18,7 +18,7 @@ function check(){
 	}
 
     let pictures = ["img/win.gif", "img/meh.jpeg", "img/lose.gif"];
-	let messages = ["You are a Star, You have won an Oscar!", " Try again", "Don't give up, have another go"];
+	let messages = ["You are a Star You have won an Oscar!", " Try again", "Don't give up, have another go"];
 	let score;
 
 	if (correct == 0) {
