@@ -8,7 +8,7 @@ h1, h2 {
 
 #quiz {
 	margin-left: 330px;
-	background: #d2def2;
+	background: #b3f1f3;
 	padding: 10px 20px 10px 20px;
 	width: 400px;
 	border-radius: 20px;
@@ -53,7 +53,7 @@ input {
 
 #after_submit {
 	visibility: hidden;
-	background: #ff5459;
+	background: #f3e1e1;
 	padding: 10px 20px 10px 20px;
 	width: 400px;
 	border-radius: 20px;
