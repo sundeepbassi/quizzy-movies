@@ -53,7 +53,7 @@ input {
 
 #after_submit {
 	visibility: hidden;
-	background: #f3e1e1;
+	background:#f3e1e1; 
 	padding: 10px 20px 10px 20px;
 	width: 400px;
 	border-radius: 20px;
