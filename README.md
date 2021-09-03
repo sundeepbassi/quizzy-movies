@@ -135,6 +135,23 @@ and to Oston Code Cypher
 
 https://www.youtube.com/watch?v=4BBWQzfgaio
 
+The questions and answers for the quiz are accredited to the Readers Digest 100 Movie Trivia Questions and Answers All Movie Lovers Should Know and kidadl movie questions.
+
+Readers Digest
+
+https://www.rd.com/article/movie-trivia-facts/
+
+Kidadl
+
+https://kidadl.com/articles/easy-movie-trivia-questions-and-answers-for-family-movie-night
+
+This website and content has been created for educational purposes only.  All information, code and external resources have been accredited in the readme for purposes of comment,  research and scholarship.
+
+https://copyrightservice.co.uk/_f/7616/1882/9839/edupack.pdf
+
+
+https://www.rd.cohttps://copyrightservice.co.uk/_f/7616/1882/9839/edupack.pdfm/article/movie-trivia-facts/
+
 
 
 
