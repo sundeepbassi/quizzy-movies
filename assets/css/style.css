@@ -16,6 +16,18 @@ h1, h2 {
 
 }
 
+#quiz2 {
+	margin-left: 330px;
+	background: #b3f1f3;
+	padding: 10px 20px 10px 20px;
+	width: 400px;
+	border-radius: 20px;
+	float: left;
+
+}
+
+
+
 input {
 	margin-bottom: 20px;
 	display: block;

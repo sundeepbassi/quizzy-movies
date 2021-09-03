@@ -1,3 +1,4 @@
+//quiz 2
 function check(){
 
 	var question1 = document.quiz.question1.value;
@@ -6,13 +7,13 @@ function check(){
 	var correct = 0;
 
 
-	if (question1 == "oscars") {
+	if (question1 == "hollywood") {
 		correct++;
 }
-	if (question2 == "Godfather") {
+	if (question2 == "Avatar") {
 		correct++;
 }	
-	if (question3 == "Jaws") {
+	if (question3 == "New Zealand") {
 		correct++;
 	}
 	
@@ -38,4 +39,4 @@ function check(){
 	document.getElementById("number_correct").innerHTML = "You got " + correct + " correct.";
 	document.getElementById("picture").src = pictures[score];
 	}
-	
+
