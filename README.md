@@ -149,6 +149,10 @@ Setting up the logo and Navbar code is accredited to Responsive Navigation Bar T
 
 https://www.youtube.com/watch?v=gXkqy0b4M5g
 
+Setting up the burger bar and media queries code is accredited to Responsive Navigation Bar Tutorial | HTML CSS JAVASCRIPT by DEV ED 
+
+https://www.youtube.com/watch?v=gXkqy0b4M5g
+
 
 
 This website and content has been created for educational purposes only.  All information, code and external resources have been accredited in the readme for purposes of comment,  research and scholarship.
