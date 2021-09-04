@@ -6,13 +6,13 @@ function check(){
 	var correct = 0;
 
 
-	if (question1 == "stunt person") {
+	if (question1 == "director") {
 		correct++;
 }
-	if (question2 == "Grease") {
+	if (question2 == "True") {
 		correct++;
 }	
-	if (question3 == "Grinch") {
+	if (question3 == "Independance Day") {
 		correct++;
 	}
 	
@@ -39,4 +39,3 @@ function check(){
 	document.getElementById("picture").src = pictures[score];
 	}
 	
-
