@@ -26,7 +26,54 @@ nav {
 
 	display: flex;
 	justify-content: space-around;
-	width: 30%;
+	width: 40%;
+}
+
+.nav-links li{
+      list-style: none;
+
+}
+
+.nav-links a {
+            color: ;
+            text-decoration: none;
+			letter-spacing: 3px;
+			font-weight: bold;
+			font-size: 14px;
+}
+
+.burger{
+	display: none;
+}
+
+.burger div {
+     width: 25px;
+	 height: 3px;
+	 background-color: black;
+	 margin: 5px;
+
+}
+
+@media screen and (max-width:1024px){
+      .nav-links{
+		  width: 60%;
+	  }
+
+}
+
+@media screen and (max-width:768px){
+         .nav-links{
+         position: absolute;
+		 right: 0px;
+		 height: 92vh;
+		 top: 8vh;
+		 background-color: rgb(214, 238, 158);
+         display: flex;
+		 flex-direction: column;
+		 align-items: center;
+		 }
+
+
 }
 
 body {
