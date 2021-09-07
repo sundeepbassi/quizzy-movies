@@ -99,6 +99,9 @@ https://www.youtube.com/watch?v=C7NsIRhoWuE  Movie quiz by Kevin
 
   8.3 fixed bugs
   Contacted tutors on 6th of September to identify problem with code in Javasript not opening burger menu.  The issue was an extra bracket not making the code execute properly.  I also checked on dev tools to identify the problem.
+
+  Contacted tutors on the 7th of September to identify the problem with code in Javascript not loading the score board.  Problem identified in syntax bracket line 16 and 19 and after removing the bracket the problem was rectified.
+  
   
   8.4 supported screens and browsers
 
