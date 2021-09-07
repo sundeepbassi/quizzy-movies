@@ -98,7 +98,8 @@ https://www.youtube.com/watch?v=C7NsIRhoWuE  Movie quiz by Kevin
   8.2 test cases (user story based with screenshots)
 
   8.3 fixed bugs
-
+  Contacted tutors on 6th of September to identify problem with code in Javasript not opening burger menu.  The issue was an extra bracket not making the code execute properly.  I also checked on dev tools to identify the problem.
+  
   8.4 supported screens and browsers
 
 9. Deployment
