@@ -12,13 +12,15 @@ const navSlide = () => {
 navLinks.forEach((link,index) => {
 	if (link.style.animation) {
 		link.style.animation = '';
-	} else link.style.animation = `navLinkFade 0.5s ease forwards ${index / 7+2}s
-	`}
-});
+	} else link.style.animation = `navLinkFade 0.5s ease forwards ${index / 7+2}s`
+	}
 });
 }
+
 navSlide();
 
+
+//Quiz game with answers
 function check(){
 
 	var question1 = document.quiz.question1.value;

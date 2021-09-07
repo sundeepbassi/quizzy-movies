@@ -89,6 +89,20 @@ nav {
 		}
 }
 
+
+/*quiz to be made responsive*/
+
+#quiz {
+	margin-left: 330px;
+	background: #b3f1f3;
+	padding: 10px 20px 10px 20px;
+	width: 400px;
+	border-radius: 20px;
+	float: left;
+
+}
+
+
 .nav-active{
 
 	transform: translateX(0%);
@@ -108,9 +122,9 @@ nav {
 
 	 }
 
-} {
+
 	
-}
+
 
 
 
