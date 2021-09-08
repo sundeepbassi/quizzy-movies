@@ -199,7 +199,9 @@ Setting up the toggle bar  and animate links code is accredited to Responsive Na
 https://www.youtube.com/watch?v=gXkqy0b4M5g
 
 
-The footer code is accredited to the love running video from the Code Institute.
+The footer code for the html is accredited to the love running video from the Code Institute.
+
+The footer code for the css is accredited to the love running video from the Code Institute.
 
 This website and content has been created for educational purposes only.  All information, code and external resources have been accredited in the readme for purposes of comment,  research and scholarship.
 
