@@ -58,6 +58,10 @@ The background colour for the quiz box is #b3f1f3 a light blue so as to enable t
 	
 By contrast to the Quiz box, the background colour for the answer box has been set to #f3e1e1 a light pinkish shade so as to allow the user to know this is what the outcome answer is.
 
+### Logo
+
+I tried to add the cinzel style for the logo font, thinking it could give an authentic movie style font (cinzel is regarded as closest to Trajan font used mainly for the movies) however I felt it distorted the look of the website and it did not make it look consistent with the rest of the site.
+
 
 
 ## 6. Wireframes
