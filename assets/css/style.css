@@ -208,3 +208,36 @@ input {
 	display: inline;
 } 
 
+
+
+
+/* footer */
+
+footer {
+    height: 120px;
+	background-color: rgba(185, 36, 9, 0.986);
+	min-height: ;
+
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: rgb(238, 226, 226);
+}
+
+
+
+
+
+
+

@@ -36,6 +36,8 @@ I decided to use buttons for the quiz so as to give the user a feeling of  being
 
 ## 4. Future Features
 
+Possibility of creating a log in form for potential users with password access.
+
 ## 5. Typography and Colour Scheme
 
 Checked up on what font is used at the movies and trajan  was the top one developed by Adobe.
@@ -128,7 +130,13 @@ GITPOD
   8.3 fixed bugs
   Contacted tutors on 6th of September to identify problem with code in Javasript not opening burger menu.  The issue was an extra bracket not making the code execute properly.  I also checked on dev tools to identify the problem.
 
-  Contacted tutors on the 7th of September to identify the problem with code in Javascript not loading the score board.  Problem identified in syntax bracket line 16 and 19 and after removing the bracket the problem was rectified.
+  Contacted tutors on the 7th of September to identify the problem with code in Javascript not loading the score board.  Problem identified in syntax bracket line 16 and 19 and after removing the bracket the problem was rectified.I
+  
+  On the 9th of September, I spoke to my mentor about the layout of the site and how I had to set up the quiz pages as separate files with separate script files with the answers. I explained that I had tried to use the code in one script but it caused a fault.  I had to find a solution and found that creating separate files helped to resolve the problem.  
+
+  My mentor advised me to contact the tutors to look into see if I could use a loop in the code so that it was not being repeated.  
+
+  I checked a few tutorials on youtube regarding arrays and loops.
 
   
   8.4 supported screens and browsers
