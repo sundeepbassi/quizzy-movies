@@ -6,7 +6,7 @@ Design a website for people to do a quiz on movies.
 
 ### External user’s goal:
 
-The site’s users want to play an online quiz to test general/specific knowledge such as sports/movies/itenary knowledge or personality assessment.
+The site’s users want to play an online quiz to test specific knowledge about movies.
 
 ### Site owner’s goal: 
 
@@ -38,17 +38,20 @@ I decided to use buttons for the quiz so as to give the user a feeling of  being
 
 ## 5. Typography and Colour Scheme
 
-Checked up on what font is used at the movies and Janaka was the top one developed by Adobe.
+Checked up on what font is used at the movies and trajan  was the top one developed by Adobe.
 
-Backround Colour
+### Backround Colour
+
 The back ground colour for the whole site has been kept white for better visibility and simplicity.
 
-Navbar
+### Navbar
+
 I decided to do the navbar background colour to  rgba(185, 36, 9, 0.986) so that it would sharply contrast with the quiz background colour and the answer box.  I felt as that as both the quiz box and the answer box were light subtle colours that a navbar with a stronger colour would help it to stand out for the user for better visibility and to indicate that this was an important navigation function for the site.
 
 I also realised that this darker shade of red was similar to the red seating found in cinemas.
 
-Logo and Nav Links Font
+### Logo and Nav Links Font
+
 The logo and the nav links font colour was done in a off white rgb(238, 226, 226) because so as that it fitted in better with the whole site.  If I had used just white for these fonts they stood out to strongly with the white background colour of the whole site and the off white was more subtle and it gave the navbar better uniformity of being its own section on the site.
 
 The background colour for the quiz box is #b3f1f3 a light blue so as to enable the user to focus on the questions in the box.
@@ -191,6 +194,10 @@ https://copyrightservice.co.uk/_f/7616/1882/9839/edupack.pdf
 
 https://www.rd.cohttps://copyrightservice.co.uk/_f/7616/1882/9839/edupack.pdfm/article/movie-trivia-facts/
 
+
+Whats the Closest Google Font?
+
+http://joelcrawfordsmith.com/closest-font/font/trajan
 
 
 
