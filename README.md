@@ -40,13 +40,20 @@ I decided to use buttons for the quiz so as to give the user a feeling of  being
 
 Checked up on what font is used at the movies and Janaka was the top one developed by Adobe.
 
-I have thought that it would be a good idea to use a black backround as this would be similar to being in a cinema.  The white foreground colour was the best for the forefront colour and it would make it easy to read for people with visual impairment.
+Backround Colour
+The back ground colour for the whole site has been kept white for better visibility and simplicity.
 
-The back ground colour for the whole site has been kept white for better visibility.
+Navbar
+I decided to do the navbar background colour to  rgba(185, 36, 9, 0.986) so that it would sharply contrast with the quiz background colour and the answer box.  I felt as that as both the quiz box and the answer box were light subtle colours that a navbar with a stronger colour would help it to stand out for the user for better visibility and to indicate that this was an important navigation function for the site.
+
+I also realised that this darker shade of red was similar to the red seating found in cinemas.
+
+Logo and Nav Links Font
+The logo and the nav links font colour was done in a off white rgb(238, 226, 226) because so as that it fitted in better with the whole site.  If I had used just white for these fonts they stood out to strongly with the white background colour of the whole site and the off white was more subtle and it gave the navbar better uniformity of being its own section on the site.
 
 The background colour for the quiz box is #b3f1f3 a light blue so as to enable the user to focus on the questions in the box.
 	
-By contrast to the Quiz box, the background colour for the answer box has been set to #f3e1e1 a light pinkish shade so as to allow the user to know this is what the outcome is.
+By contrast to the Quiz box, the background colour for the answer box has been set to #f3e1e1 a light pinkish shade so as to allow the user to know this is what the outcome answer is.
 
 
 
