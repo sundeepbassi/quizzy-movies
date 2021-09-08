@@ -7,13 +7,13 @@ nav {
 	justify-content: space-around;
 	align-items: center;
 	min-height: 4vh;
-	background-color: rgb(214, 238, 158);
+	background-color: rgba(185, 36, 9, 0.986);
 	font-family: ;
     margin-bottom: 30px;
 }
 
 .logo {
-    color: black;
+    color: rgb(238, 226, 226);
 	text-transform: uppercase;
 	letter-spacing: 5px; 
         margin: 0px;
@@ -35,7 +35,7 @@ nav {
 }
 
 .nav-links a{
-            color: ;
+            color:rgb(238, 226, 226);  ;
             text-decoration: none;
 			letter-spacing: 3px;
 			font-weight: bold;
