@@ -64,7 +64,11 @@ By contrast to the Quiz box, the background colour for the answer box has been s
 
 I tried to add the cinzel style for the logo font, thinking it could give an authentic movie style font (cinzel is regarded as closest to Trajan font used mainly for the movies) however I felt it distorted the look of the website and it did not make it look consistent with the rest of the site.
 
+### Footer 
 
+The background colour for footer set to the same colour as the navbar  rgba(185, 36, 9, 0.986), so that it kept the same consistency for the user not to get distracted.  
+
+The font colour for the social media links were set to the same colour as the loge navbar links rgb(238, 226, 226) so as to maintain consistency and uniformity.  I also wanted the user to intuitively know where the navlinks were and the social media links one being for navigation purposes and the other being accessible external links.
 
 ## 6. Wireframes
 
