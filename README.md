@@ -140,7 +140,7 @@ GITPOD
 
   My mentor advised me to contact the tutors to look into see if I could use a loop in the code so that it was not being repeated.  
 
-  I checked a few tutorials on youtube regarding arrays and loops.
+  I checked a tutorials on youtube regarding arrays and loops.
 
   
   8.4 supported screens and browsers
@@ -178,6 +178,10 @@ https://www.w3schools.com/howto/howto_css_next_prev.asp
 and to Oston Code Cypher
 
 https://www.youtube.com/watch?v=4BBWQzfgaio
+
+The setting up of the hero image code is accredited to the love running video fromn the code institute and it was also placed in my first portfolio project The Wellbeing Retreat.
+
+The code for using css to style the hero image is accredited to the love running video from the code institute and it was also placed in my first portolio project The Wellbeing retreat.
 
 The questions and answers for the quiz are accredited to the Readers Digest 100 Movie Trivia Questions and Answers All Movie Lovers Should Know and kidadl movie questions.
 
