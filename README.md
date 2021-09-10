@@ -21,13 +21,9 @@ The goal of the site is to provide a challenging quiz to entertain online users,
 
       3) As a user I want to see images if the answers are correct or incorrect.
 
-      4) As a user I want to be able to create a  username  .
+      4) As a user I want to easily navigate around the site.
 
-      5) As a user I want to be able to give feedback.
-
-      6) As a user I want to easily navigate around the site.
-
-      7) As a user I want to be able to play the quiz on various devices. 
+      5) As a user I want to be able to play the quiz on various devices. 
 
 UX? Check on slack with Anna Greaves and Jim, also portfolio students
 
@@ -72,44 +68,7 @@ The font colour for the social media links were set to the same colour as the lo
 
 ## 6. Wireframes
 
-The wireframes layout was put together to enable one to see where to locate the various functions for the quiz.
-
-The main title is at the top called Quizzy Movies.
-I used this title as it was both fun and communicated directly to the user what the site is for.
-
-Underneath the title there is information about the site.
-
-The main question will be at the top of the first box area.
-
-Then there is the answer area below the questions area,
-The score is located to the right hand bottom side.
-
-Feedback button is in the centre.
-
-Signup is on the right hand bottom side.
-
-Next button is at the bottom.
-
-The layout was designed like this so that it would be user friendly.  The user could start playing the quiz straight away and the navigation was laid so that after the user played the quiz they would have the option to see the score, input feedback and sign up.  This is why these buttons were placed at the bottom.  
-
-The layout needed to be simple and have the feeling of being uncluttered.  The next button was placed at the right hand bottom side so that if the user enjoyed the experience of playing this quiz then they could move onto the next question.
-
-I wanted the user to have the feeling that they easily locate buttons on the site and not have any frustration in trying to find any of the functions.
-
-I really needed to look at the user really wanted to do and how to incorporate on the site and the main functions only incorporated without any complications.
-
-The answer to the question will be placed in a separate box that will show an image of the correct or incorrect answer and a statement at the bottom stating correct or incorrect.
-
-There will also need to be a back button on the answer section so as to enable the user to go back to the question area if they are playing the game on other devices such as mobiles.
-
-The inspiration to design with two boxes for  the site like this came from Kevin Briggs' youtube video.
-
-https://www.youtube.com/watch?v=C7NsIRhoWuE  Movie quiz by Kevin
-
-
-
-
-7. Technology
+## 7. Technology
 
 HTML
 
@@ -210,6 +169,13 @@ https://www.youtube.com/watch?v=gXkqy0b4M5g
 The footer code for the html is accredited to the love running video from the Code Institute.
 
 The footer code for the css is accredited to the love running video from the Code Institute.
+
+The hero image is accredited to iStock.
+
+https://www.istockphoto.com/search/2/image?phrase=cinema
+
+
+
 
 This website and content has been created for educational purposes only.  All information, code and external resources have been accredited in the readme for purposes of comment,  research and scholarship.
 
