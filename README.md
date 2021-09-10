@@ -28,7 +28,7 @@ The goal of the site is to provide a challenging quiz to entertain online users,
 UX? Check on slack with Anna Greaves and Jim, also portfolio students
 
 ## 3. Features
-I decided to use buttons for the quiz so as to give the user a feeling of  being in control and better navigation, I did not want to use radio buttons as i felt they did not give a feeling of pressing something.
+I decided to use radio buttons for the quiz so as to give the user a feeling of  being in control and better navigation. 
 
 ## 4. Future Features
 
@@ -59,6 +59,10 @@ By contrast to the Quiz box, the background colour for the answer box has been s
 ### Logo
 
 I tried to add the cinzel style for the logo font, thinking it could give an authentic movie style font (cinzel is regarded as closest to Trajan font used mainly for the movies) however I felt it distorted the look of the website and it did not make it look consistent with the rest of the site.
+
+### Hero Image
+
+I decided to use an image of a cinema screen within the audotorium.  I felt it would intuitively let the user know that this is a quiz about movies and to use that image as a focus.  The image also complimented the navbar and footer background colour.  The blank white screen in the cinema also complimented the white background of the site.
 
 ### Footer 
 
