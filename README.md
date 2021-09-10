@@ -146,6 +146,12 @@ The setting up of the hero image code is accredited to the love running video fr
 
 The code for using css to style the hero image is accredited to the love running video from the code institute and it was also placed in my first portolio project The Wellbeing retreat.
 
+The hero image is accredited to iStock.
+
+https://www.istockphoto.com/search/2/image?phrase=cinema
+
+
+
 The questions and answers for the quiz are accredited to the Readers Digest 100 Movie Trivia Questions and Answers All Movie Lovers Should Know and kidadl movie questions.
 
 Readers Digest
