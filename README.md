@@ -74,17 +74,17 @@ The font colour for the social media links were set to the same colour as the lo
 
 ## 7. Technology
 
-HTML
+Html
 
-CASCADING STYLE SHEETS
+Cascading Style Sheets
 
-JAVASCRIPT
+Javascript
 
-GOOGLE DEV TOOLS
+Google Dev Tools
 
-GITHUB
+Github
 
-GITPOD
+Gitpod
 
 
 
