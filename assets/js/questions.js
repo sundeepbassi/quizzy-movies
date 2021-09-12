@@ -23,6 +23,16 @@ navSlide();
 
 // Display question and answers for quiz
 
+
+document.getElementsByClassName("display-questions")[0].innerHTML = "hello"
+
+// loop
+
+var questions=["levelOne","levelTwo","levelThree",'levelFour','levelFive'];
+for (let i = 0; i < colors.length; i++) { 
+  console.log(colors[i]);
+}
+
 const questions =
 
 { levelOne: [{
