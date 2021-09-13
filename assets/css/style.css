@@ -88,11 +88,43 @@ text-transform: uppercase;
 }
 
 .button button {
-
+width: 50%;
+padding: 8px;
+font-size: 20px;
+border: none;
+outline: none;
+border-radius: 6px;
 
 }
 
 .answers {
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+gap: 10%;
+background: white;
+height: 100%;
+margin-bottom: 5px;
 
-    
 }
+
+.answer__button {
+
+    max-width: 30%;
+    padding: 10px;
+    border: none;
+    outline: none;
+    background: rgb(223, 223, 233);
+}
+
+.answer__button.valid{
+    border: 2px solid rgb(40, 133, 240);
+
+
+}
+
+.answer__button.invalid {
+    border: 2px solid tomato;
+}
+
