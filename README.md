@@ -105,6 +105,8 @@ Gitpod
 
   I checked a tutorials on youtube regarding arrays and loops.
 
+  on the 14th of September there was an error in the console log when clicking the start button.  The error was rectified by ensuring that the buttonStart and the welcome had a . infront of them in their querySelector brackets.
+
   
   8.4 supported screens and browsers
 
