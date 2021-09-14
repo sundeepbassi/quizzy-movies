@@ -128,6 +128,9 @@ margin-bottom: 5px;
     border: 2px solid tomato;
 }
 
+/* Set media queries to work on all devices. Code accredited to accredited to Merkim dev tutorials*/
+
+
 @media screen and (max-width:1024px) {
     .welcome {
         width: 60vw;

@@ -123,6 +123,24 @@ Quiz app tutorial with html css and javascript
 
 https://www.youtube.com/watch?v=OLJOEYQfv2U
 
+4) The styling of elements in the style.css file is accredited to Merkim dev 
+Quiz app tutorial with html css and javascript
+
+https://www.youtube.com/watch?v=OLJOEYQfv2U
+
+5) The setting up of media queries for responsiveness is accredited to Merkim dev 
+Quiz app tutorial with html css and javascript
+
+https://www.youtube.com/watch?v=OLJOEYQfv2U
+
+6) The setting up of code in the script file is accredited to Merkim dev 
+Quiz app tutorial with html css and javascript
+
+https://www.youtube.com/watch?v=OLJOEYQfv2U
+
+
+
+
 
 
 3) The layout for setting up the questions in the index.Html is accredited to Kevin Briggs Javascript tutorial: make a quiz
