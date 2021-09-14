@@ -36,6 +36,32 @@ buttonStart.addEventListener('click', ()=> {
 })
 
 const oneQuestion = (index) => {
-    const question = questions[firstQuestionl]
+    const question = questions[firstQuestion]
+    questionParagraph.textcontent = question.question
+    question.answers.forEach(answer => {
+        const button = document.createElement('button')
+        button.classList.add('answer__button')
+        button.append(answer.text)
+        answersContainer.appendChild(button)
+        button.dataset.isCorrect =answer.isAnswer
+        button.addEventListener('click', checkAnswer)
+
+
+    })
+}
+
+const checkAnswer = (e) => {
+   const allAnswers = document.querySelectorAll('.answer__button')
+   const answerBoolean = e.target.dataset.isCorrect
+   if (answerBoolean == 'true') {
+    e.target.classList.add('valid')
+    score ++
+    scoreSpan.textContent = score
+   } else {
+       e.target.classList.add(invalid)
+   }
+
+
+
 
 }

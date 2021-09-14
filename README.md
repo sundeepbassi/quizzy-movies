@@ -138,6 +138,12 @@ Quiz app tutorial with html css and javascript
 
 https://www.youtube.com/watch?v=OLJOEYQfv2U
 
+7) The setting up of the array of questions and answers is accredited to Merkim dev 
+Quiz app tutorial with html css and javascript
+
+https://www.youtube.com/watch?v=OLJOEYQfv2U
+
+
 
 
 
