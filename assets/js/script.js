@@ -36,17 +36,19 @@ buttonStart.addEventListener('click', ()=> {
     oneQuestion(firstQuestion);
 });
 
-const oneQuestion = (index) => {
+const oneQuestion = () => {
     const question = questions[firstQuestion];
     questionParagraph.textcontent = question.question;
     question.answers.forEach(answer => {
         const button = document.createElement('button');
         button.classList.add('.answer__button');
         button.append(answer.text);
+    
+        
         answersContainer.appendChild(button);
         button.dataset.isCorrect =answer.isAnswer;
         button.addEventListener('click', checkAnswer);
-
+        
 
     });
 };
@@ -66,7 +68,8 @@ const checkAnswer = (e) => {
 
 allAnswers.forEach(e1 => {
        el.disabled = true;
-});
+})
+}
 
 buttonNext.addEventListener('click', () => {
     nextQuestion --;
@@ -86,4 +89,4 @@ buttonNext.addEventListener('click', () => {
     questionParagraph.textContent = '';
     answersContainer.textContent = '';
     oneQuestion(nextQuestion);
-});
+})
