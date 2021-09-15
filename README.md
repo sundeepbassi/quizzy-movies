@@ -107,6 +107,10 @@ Gitpod
 
   on the 14th of September there was an error in the console log when clicking the start button.  The error was rectified by ensuring that the buttonStart and the welcome had a . infront of them in their querySelector brackets.
 
+  I spoke to my mentor on the 14th of September and explained how I had tried to create a new project as I could understand how dry repetitive code in many files was not productive.  I explained that I had put a lot of effort into redisgning my project.  During my mid term review with my mentor I explained that I was still not happy with my project and that I would would need to go back to the drawing board and simplify what i could do for the project however I had learnt a lot through the process.
+
+  
+
   
   8.4 supported screens and browsers
 

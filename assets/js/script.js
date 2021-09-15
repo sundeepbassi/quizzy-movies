@@ -27,7 +27,7 @@ const questions = [
 ];
 
 let firstQuestion = Math.floor(Math.random() * 5);
-nextQuestion = firstQuestion;
+let nextQuestion = firstQuestion;
 let score = 0;
 
 buttonStart.addEventListener('click', ()=> {
