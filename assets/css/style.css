@@ -94,14 +94,14 @@ However I had to adjust the specific elements and styling for them myself */
 
 
 @media screen and (max-width:1024px) {
-    .welcome {
-        width: 60vw;
+    .container {
+        width: 40vw;
     }
 }
     
 @media screen and (max-width:768px) {
-    .answer__button {
-        width: 60%;
+    .container{
+        width: 40%;
     }
 }
 
@@ -110,7 +110,7 @@ However I had to adjust the specific elements and styling for them myself */
         width: 90vw;
     }
     
-    .welcome {
+    .container {
         width: 90vw;
     }
 
@@ -118,10 +118,6 @@ However I had to adjust the specific elements and styling for them myself */
     font-size: 20px;
 }
 
-.score {
-    font-size: 22px;
-    width: 20vw;
 }
 
-}
 
