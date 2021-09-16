@@ -111,6 +111,7 @@ Gitpod
 
   Checked on w3c Markup Validation service and 2 errors were reported in no closing div tag on line 13. This was rectified and another validation test was conducted and there were no errors or warnings.
 
+  Checked on the W3C CSS validation service and I had to rectify 1 error.  The test was repeated and it passed successfully.
   
   8.4 supported screens and browsers
 
@@ -130,7 +131,7 @@ Gitpod
 
 https://www.youtube.com/watch?v=riDzcEQbX6k  
 
-4)1) Setting up the style in the css style sheet for the quiz code accredited to Web Dev Simplified and I made adjustment for how to display the quiz.
+4) Setting up the style in the css style sheet for the quiz code accredited to Web Dev Simplified and I made adjustment for how to display the quiz.
 
 https://www.youtube.com/watch?v=riDzcEQbX6k 
 
