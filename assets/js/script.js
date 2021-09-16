@@ -1,3 +1,6 @@
+/* Setting up the script file  for the quiz code is accredited to Web Dev Simplified,*/
+
+
 const startButton = document.getElementById('start-btn');
 const nextButton = document.getElementById('next-btn');
 
@@ -64,7 +67,7 @@ Array.from(answerButtonsElement.children).forEach(button => {
 if (shuffledQuestions.length > currentQuestionIndex + 1) {
 nextButton.classList.remove('hide')
 } else {
-    startButton.innerText = ('Restart')
+    startButton.innerText = 'Restart'
     startButton.classList.remove('hide')
 }
 }
