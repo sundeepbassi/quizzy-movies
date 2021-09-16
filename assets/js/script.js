@@ -103,7 +103,7 @@ const questions = [
   {
   question: 'Which actor',
     answers: [
-      { text: '', correct: false},
+      { text: 'Ronald Reagan', correct: false},
       { text: '', correct: false},
       { text: '', correct: true},
       { text: '', correct: false}

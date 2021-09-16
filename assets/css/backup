@@ -1,0 +1,40 @@
+
+/* Setting up the styling for the quiz code accredited to Web Dev Simplified, I added my own styling also*/
+
+
+/* Set media queries to work on all devices. Code accredited to to Merkim dev tutorials 
+However I had to adjust the specific elements and styling for them myself */
+
+
+@media screen and (max-width:1024px) {
+    .welcome {
+        width: 60vw;
+    }
+}
+    
+@media screen and (max-width:768px) {
+    .answer__button {
+        width: 60%;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .container{
+        width: 90vw;
+    }
+    
+    .welcome {
+        width: 90vw;
+    }
+
+.welcome p {
+    font-size: 20px;
+}
+
+.score {
+    font-size: 22px;
+    width: 20vw;
+}
+
+}
+
