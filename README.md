@@ -118,6 +118,12 @@ Gitpod
 
 10. Credits
 
+1) Setting up questions,answers container,buttons and score for the quiz code accredited to Web Dev Simplified
+
+https://www.youtube.com/watch?v=riDzcEQbX6k
+
+
+
 1) To set up the filing system, implement the boiler plate and the intial commit are accredited to the love maths video from the Code Institute.
 
 2) The initial readme template was set up in Google docs and the layout for the template was shared on the slack community by fellow students.  For this project I did my research and added it to the google docs template both for planning and adding relevant information for the project. This was then installed into the git readme.
