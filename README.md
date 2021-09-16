@@ -109,7 +109,7 @@ Gitpod
 
   I spoke to my mentor on the 14th of September and explained how I had tried to create a new project as I could understand how dry repetitive code in many files was not productive.  I explained that I had put a lot of effort into redisgning my project.  During my mid term review with my mentor I explained that I was still not happy with my project and that I would would need to go back to the drawing board and simplify what i could do for the project however I had learnt a lot through the process.
 
-  
+  Checked on w3c Markup Validation service and 2 errors were reported in no closing div tag on line 13. This was rectified and another validation test was conducted and there were no errors or warnings.
 
   
   8.4 supported screens and browsers
