@@ -3,6 +3,10 @@ box-sizing: border-box;
 font-family: Gotham Rounded;
 }
 
+/* Setting up the styling for the quiz code accredited to Web Dev Simplified, I added my own styling also*/
+
+
+
 :root {
     --hue-neutral: 200;
     --hue-wrong: 0;
@@ -18,7 +22,7 @@ body {
     height: 100vh;
     justify-content: center;
     align-items: center;
-    background-color: hsl(var(--hue), 100%, 20%);
+    background-color: hsl(var(--hue), 100%, 94%);
 }
 
 body.correct {
@@ -83,3 +87,41 @@ body.wrong {
 .hide {
     display: none;
 }
+
+
+/* Set media queries to work on all devices. Code accredited to to Merkim dev tutorials 
+However I had to adjust the specific elements and styling for them myself */
+
+
+@media screen and (max-width:1024px) {
+    .welcome {
+        width: 60vw;
+    }
+}
+    
+@media screen and (max-width:768px) {
+    .answer__button {
+        width: 60%;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .container{
+        width: 90vw;
+    }
+    
+    .welcome {
+        width: 90vw;
+    }
+
+.welcome p {
+    font-size: 20px;
+}
+
+.score {
+    font-size: 22px;
+    width: 20vw;
+}
+
+}
+

@@ -90,25 +90,56 @@ function clearStatusClass(element) {
 
 const questions = [
   {
-   question: 'In which movie ',
+   question: 'In which movie was there terror lurking in water?',
    answers: [
-     { text: '', correct: false},
-     { text: '', correct: false},
-     { text: '', correct: true},
-     { text: '', correct: false}
+     { text: 'Finding Nemo', correct: false},
+     { text: 'Jumanji', correct: false},
+     { text: 'Aliens', correct: false},
+     { text: 'Jaws', correct: true}
    ]
   
   },
   
   {
-  question: 'Which actor',
+  question: 'Which actor refused to accept an Oscar award?',
     answers: [
       { text: 'Ronald Reagan', correct: false},
-      { text: '', correct: false},
-      { text: '', correct: true},
-      { text: '', correct: false}
+      { text: 'Brad Pitt', correct: false},
+      { text: 'Marlon Brando', correct: true},
+      { text: 'Kevin Costner', correct: false}
     ]
-}
+},
+
+{
+    question: 'Which is the highest grossing movie of all time?',
+      answers: [
+        { text: 'Avatar', correct: true},
+        { text: 'Superman', correct: false},
+        { text: 'The Grinch', correct: false},
+        { text: 'ET', correct: false}
+      ]
+  },
+
+  {
+    question: 'Which movie was based on a TV sitcom?',
+      answers: [
+        { text: 'Frozen', correct: false},
+        { text: 'Bewitched', correct: true},
+        { text: 'Wizard Of OZ', correct: false},
+        { text: 'Legally Blonde', correct: false}
+      ]
+  },
+
+  {
+    question: 'What is Bohemian Rhapsody about?',
+      answers: [
+        { text: 'A Famous Animation', correct: false},
+        { text: 'Story About Gangs', correct: false},
+        { text: 'The Monarchy', correct: false},
+        { text: 'Freddy Mercury', correct: true}
+      ]
+  }
+
 ];
 
 
