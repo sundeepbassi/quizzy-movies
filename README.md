@@ -139,7 +139,14 @@ https://www.youtube.com/watch?v=riDzcEQbX6k
 
 https://www.youtube.com/watch?v=riDzcEQbX6k 
 
+6) Adjustments to colours checked on MDN Web Docs.
 
+https://developer.mozilla.org/en-US/docs/Web/CSS/background-color
+
+
+7) Adjustments to font weight and font size was checked on MDN Web Docs.
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight
 
 
 
