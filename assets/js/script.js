@@ -101,7 +101,7 @@ const questions = [
   },
   
   {
-  question: 'Which actor refused to accept an Oscar award?',
+  question: 'Which actor refused to accept an Oscars?',
     answers: [
       { text: 'Ronald Reagan', correct: false},
       { text: 'Brad Pitt', correct: false},

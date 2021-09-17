@@ -15,20 +15,8 @@ The goal of the site is to provide a challenging quiz to entertain online users,
 
 ## 2. User Stories
 
-      1) As a user I want to do a quiz about movies.
-
-      2) As a user I want to know what my score is for the quiz.
-
-      3) As a user I want to see images if the answers are correct or incorrect.
-
-      4) As a user I want to easily navigate around the site.
-
-      5) As a user I want to be able to play the quiz on various devices. 
-
-UX? Check on slack with Anna Greaves and Jim, also portfolio students
 
 ## 3. Features
-I decided to use radio buttons for the quiz so as to give the user a feeling of  being in control and better navigation. 
 
 ## 4. Future Features
 
@@ -42,27 +30,6 @@ Checked up on what font is used at the movies and trajan  was the top one develo
 
 The back ground colour for the whole site has been kept white for better visibility and simplicity.
 
-### Navbar
-
-I decided to do the navbar background colour to  rgba(185, 36, 9, 0.986) so that it would sharply contrast with the quiz background colour and the answer box.  I felt as that as both the quiz box and the answer box were light subtle colours that a navbar with a stronger colour would help it to stand out for the user for better visibility and to indicate that this was an important navigation function for the site.
-
-I also realised that this darker shade of red was similar to the red seating found in cinemas.
-
-### Logo and Nav Links Font
-
-The logo and the nav links font colour was done in a off white rgb(238, 226, 226) because so as that it fitted in better with the whole site.  If I had used just white for these fonts they stood out to strongly with the white background colour of the whole site and the off white was more subtle and it gave the navbar better uniformity of being its own section on the site.
-
-The background colour for the quiz box is #b3f1f3 a light blue so as to enable the user to focus on the questions in the box.
-	
-By contrast to the Quiz box, the background colour for the answer box has been set to #f3e1e1 a light pinkish shade so as to allow the user to know this is what the outcome answer is.
-
-### Logo
-
-I tried to add the cinzel style for the logo font, thinking it could give an authentic movie style font (cinzel is regarded as closest to Trajan font used mainly for the movies) however I felt it distorted the look of the website and it did not make it look consistent with the rest of the site.
-
-### Hero Image
-
-I decided to use an image of a cinema screen within the audotorium.  I felt it would intuitively let the user know that this is a quiz about movies and to use that image as a focus.  The image also complimented the navbar and footer background colour.  The blank white screen in the cinema also complimented the white background of the site.
 
 ### Footer 
 
@@ -160,7 +127,7 @@ const answerButtonsElement is accredited to  Web Dev Simplified.
 https://www.youtube.com/watch?v=riDzcEQbX6k 
 
 
-9} Implementation of startButton.addEventListener, unction startGame() and function setNextQuestion are accredited to accredited to  Web Dev Simplified.
+9} Implementation of startButton.addEventListener, function startGame() and function setNextQuestion are accredited to accredited to  Web Dev Simplified.
 
 https://www.youtube.com/watch?v=riDzcEQbX6k 
 
