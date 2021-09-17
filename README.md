@@ -148,20 +148,28 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/background-color
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight
 
+7a) For positioning elements.
+
+https://css-tricks.com/almanac/properties/p/position/
+
+
+
 8) Implementation of const startButton, const nextButton, const questionContainerElement, const questionElement and 
 const answerButtonsElement is accredited to  Web Dev Simplified.
 
 https://www.youtube.com/watch?v=riDzcEQbX6k 
 
 
+9} Implementation of startButton.addEventListener, unction startGame() and function setNextQuestion are accredited to accredited to  Web Dev Simplified.
 
+https://www.youtube.com/watch?v=riDzcEQbX6k 
 
 
 
 3) The layout for setting up the question, answers, container,buttons and score in the index.html is accredited to Merkim dev 
 Quiz app tutorial with html css and javascript
 
-https://www.youtube.com/watch?v=OLJOEYQfv2U
+https://www.youtube.com/watch?v=OLJOEYQfv2U a
 
 4) The styling of elements in the style.css file is accredited to Merkim dev 
 Quiz app tutorial with html css and javascript
