@@ -148,6 +148,14 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/background-color
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight
 
+8) Implementation of const startButton, const nextButton, const questionContainerElement, const questionElement and 
+const answerButtonsElement is accredited to  Web Dev Simplified.
+
+https://www.youtube.com/watch?v=riDzcEQbX6k 
+
+
+
+
 
 
 3) The layout for setting up the question, answers, container,buttons and score in the index.html is accredited to Merkim dev 
