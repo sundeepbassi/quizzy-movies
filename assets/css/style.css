@@ -33,6 +33,12 @@ body.wrong {
     --hue: var(--hue-wrong);
 }
 
+h1 {
+    position: absolute;
+    top: 20px;
+  }
+
+
 .container {
     width: 800px;
     max-width: 80%;
@@ -100,19 +106,20 @@ However I had to adjust the specific elements and styling for them myself */
 
 
 @media screen and (max-width:1024px) {
-    .container {
+    .container h1 {
         width: 40vw;
     }
+
 }
     
 @media screen and (max-width:768px) {
-    .container{
+    .container h1{
         width: 40%;
     }
 }
 
 @media screen and (max-width:480px) {
-    .container{
+    .container  h1{
         width: 90vw;
     }
     
