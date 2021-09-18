@@ -91,13 +91,14 @@ Gitpod
 
 
 
-8. Testing
+## 8. Testing
 
-  8.1 code validation
+  ## 8.1 code validation
 
-  8.2 test cases (user story based with screenshots)
+ ##  8.2 test cases (user story based with screenshots)
 
-  8.3 fixed bugs
+  ## 8.3 fixed bugs
+
   Contacted tutors on 6th of September to identify problem with code in Javasript not opening burger menu.  The issue was an extra bracket not making the code execute properly.  I also checked on dev tools to identify the problem.
 
   Contacted tutors on the 7th of September to identify the problem with code in Javascript not loading the score board.  Problem identified in syntax bracket line 16 and 19 and after removing the bracket the problem was rectified.I
@@ -116,9 +117,12 @@ Gitpod
 
   Checked on the W3C CSS validation service and I had to rectify 1 error.  The test was repeated and it passed successfully.
 
-  8.4 supported screens and browsers
+  Whilst doing a validator check on Jshint for the script file there were 15 warnings reported back. Whilst watching a tutorial from Tiff in Tech she suggested to check on google when faults are reported in jshint. I followed the advice and copied the fault appearing in Jshint was const' is available in ES6 (use 'esversion: 6') or Mozilla JS extensions (use moz). When I googled this warning there was a response in stack overflow to put this at the top of a script file /*jshint esversion: 6 */.
+ I did this and 14 warnings were removed off Jshint.
 
-9. Deployment
+## 8.4 supported screens and browsers
+
+## 9. Deployment
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 In the GitHub repository, navigate to the Settings tab
@@ -127,7 +131,7 @@ Once the master branch has been selected, the page will be automatically refresh
 
 The live link can be found here 
 
-10. Credits
+## 10. Credits
 
 1) To set up the filing system, implement the boiler plate and the intial commit are accredited to the love maths video from the Code Institute.
 
