@@ -33,7 +33,7 @@ body.wrong {
     --hue: var(--hue-wrong);
 }
 
-/* Primary and secondary heading styles*/
+/* Primary and secondary heading styles code I implemented */
 h1 {
     position: absolute;
     top: 10px;
@@ -45,7 +45,7 @@ h1 {
     top: 80px;
   }
 
-  /* Main contaner quiz area styling for container, question  grid and  buttons. */ 
+  /* Main contaner quiz area styling for container, question  grid and  buttons. code accredited to Web Dev Simplified*/ 
 
 .container {
     width: 800px;
@@ -96,6 +96,8 @@ font-weight: bold;
     font-weight: bold;
     padding: 10px 20px;
 }
+
+/* Controls area styling code accredited to Web Dev Simplified */   
 
 .controls {
     display: flex;
