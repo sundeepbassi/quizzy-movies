@@ -54,7 +54,7 @@ Possibility of creating a log in form for potential users with password access.
 
 ## 5. Typography and Colour Scheme
 
-Checked up on what font is used at the movies and trajan  was the top one developed by Adobe.
+Checked up on what font is used at the movies and trajan  was the top one developed by Adobe.  However I decided not to use this and style.
 
 ### Backround Colour
 

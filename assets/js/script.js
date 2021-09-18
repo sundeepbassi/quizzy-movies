@@ -1,3 +1,5 @@
+/*jshint esversion: 6 */
+
 /* Setting up the script file  with content variables and all functions for the quiz code is accredited to Web Dev Simplified*/
 
 
