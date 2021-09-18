@@ -15,8 +15,28 @@ The goal of the site is to provide a challenging quiz to entertain online users,
 
 ## 2. User Stories
 
-
 ## 3. Features
+
+### Navigation 
+
+The navigation for this site is very simple:
+
+A start button
+
+A next button
+
+A restart button
+
+This enables the user to remain focused on the quiz and only having to click once for each action
+so as to keep the user engaged with the quiz game. 
+
+In my research into good user experience design I looked at the 3 click rule and the 1 click rule. 
+
+There is further information in the credits about this. I stuck to the 1 click rule because as it is a quiz game I want the user to feel in control with clicking once and not getting frustrated.
+
+It will also bring the user closer to their destination as stated in the article in the credits section and in the link below.
+
+[UX Design World](https://uxdworld.com/2020/01/28/3-click-rule-and-usability/)
 
 ### Heading
 
@@ -245,7 +265,7 @@ https://kidadl.com/articles/easy-movie-trivia-questions-and-answers-for-family-m
 ### Media
 
 
-## The credits below were used in my first two projects however after setting up my third project I did not use the code from these resources in my up to date project.  I have left these credits in below both for educational and reference purposes.
+The credits below were used in my first two projects however after setting up my third project I did not use the code from these resources in my up to date project.  I have left these credits in below both for educational and reference purposes.
 
 The layout for setting up the question, answers, container, buttons and score in the index.html is accredited to Merkim dev 
 Quiz app tutorial with html css and javascript
