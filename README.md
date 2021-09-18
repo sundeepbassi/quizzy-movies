@@ -178,40 +178,41 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight
 
 https://css-tricks.com/almanac/properties/p/position/
 
-7) Setting up the script file  for the quiz code is accredited to Web Dev Simplified
+7) To Set up the media queries to work on all devices and the  Code is accredited to to Merkim dev tutorials. These included
+the @media screen and (max-width:1024px), @media screen and (max-width:768px) and @media screen and (max-width:480px).
+
+However I had to adjust the specific elements responsiveness for them myself.
+
+https://www.youtube.com/watch?v=OLJOEYQfv2U
+
+
+8) Setting up the script file  for the quiz code is accredited to Web Dev Simplified
 
 https://www.youtube.com/watch?v=riDzcEQbX6k 
 
-8) Implementation of const startButton, const nextButton, const questionContainerElement, const questionElement and 
+9) Implementation of const startButton, const nextButton, const questionContainerElement, const questionElement and 
 const answerButtonsElement is accredited to  Web Dev Simplified.
 
 https://www.youtube.com/watch?v=riDzcEQbX6k 
 
 
-9} Implementation of startButton.addEventListener, function startGame() and function setNextQuestion are accredited to accredited to  Web Dev Simplified.
+10} Implementation of startButton.addEventListener, function startGame() and function setNextQuestion are accredited to accredited to  Web Dev Simplified.
 
 https://www.youtube.com/watch?v=riDzcEQbX6k 
 
-10) Implementation of function showQuestion(question), function resetState() and function selectAnswer(e) are accredited to accredited to  Web Dev Simplified.
+11) Implementation of function showQuestion(question), function resetState() and function selectAnswer(e) are accredited to accredited to  Web Dev Simplified.
 
 https://www.youtube.com/watch?v=riDzcEQbX6k 
 
-11) Implementation of function setstatusclass, function clearstatusclass and const questions = are accredited to accredited to  Web Dev Simplified.
+12) Implementation of function setstatusclass, function clearstatusclass and const questions = are accredited to accredited to  Web Dev Simplified.
 
 https://www.youtube.com/watch?v=riDzcEQbX6k 
 
-
-
-
-
-
-To check warnings in JShint I used the following resources:
-
-
+13) To check warnings in JShint I used the following resources:
 
 a) Youtube tutorials
 
-#LearningHowToCode #TiffInTech
+LearningHowToCode TiffInTech
 
 https://www.youtube.com/watch?v=5j_v9DldKhU
 
@@ -222,68 +223,70 @@ https://www.youtube.com/watch?v=vP2MNhC_Igw
 
 b) google
 
-
-c)
-
-b) JS lint error explanations
+c) JS lint error explanations
 
 http://linterrors.com/js/a-leading-decimal-point-can-be-confused-with-a-dot-a
 
-c) Stack Overflow
+d) Stack Overflow
 
 https://stackoverflow.com/questions/27441803/why-does-jshint-throw-a-warning-if-i-am-using-const
 
+### Content
+The questions and answers for the quiz are accredited to the Readers Digest 100 Movie Trivia Questions and Answers All Movie Lovers Should Know and kidadl movie questions.
+
+Readers Digest
+
+https://www.rd.com/article/movie-trivia-facts/
+
+also I used Kidadl
+
+https://kidadl.com/articles/easy-movie-trivia-questions-and-answers-for-family-movie-night
+
+### Media
 
 
+## The credits below were used in my first two projects however after setting up my third project I did not use the code from these resources in my up to date project.  I have left these credits in below both for educational and reference purposes.
 
-
-
-3) The layout for setting up the question, answers, container,buttons and score in the index.html is accredited to Merkim dev 
+The layout for setting up the question, answers, container, buttons and score in the index.html is accredited to Merkim dev 
 Quiz app tutorial with html css and javascript
 
 https://www.youtube.com/watch?v=OLJOEYQfv2U a
 
-4) The styling of elements in the style.css file is accredited to Merkim dev 
+The styling of elements in the style.css file is accredited to Merkim dev 
 Quiz app tutorial with html css and javascript
 
 https://www.youtube.com/watch?v=OLJOEYQfv2U
 
 
-6) The setting up of code in the script file is accredited to Merkim dev 
+The setting up of code in the script file is accredited to Merkim dev 
 Quiz app tutorial with html css and javascript
 
 https://www.youtube.com/watch?v=OLJOEYQfv2U
 
-7) The setting up of the array of questions and answers is accredited to Merkim dev 
+The setting up of the array of questions and answers is accredited to Merkim dev 
 Quiz app tutorial with html css and javascript
 
 https://www.youtube.com/watch?v=OLJOEYQfv2U
 
-
-
-
-
-
-
-3) The layout for setting up the questions in the index.Html is accredited to Kevin Briggs Javascript tutorial: make a quiz
+The layout for setting up the questions in the index.Html is accredited to Kevin Briggs Javascript tutorial: make a quiz
 
 https://www.youtube.com/watch?v=C7NsIRhoWuE
  
-4) The Javascript code for creating the variable question is accredited to Kevin Briggs Javascript tutorial: make a quiz
+The Javascript code for creating the variable question is accredited to Kevin Briggs Javascript tutorial: make a quiz
 
 I set the variable var to let as let is used more often as shown in the LMS of Code Institute.
 
 https://www.youtube.com/watch?v=C7NsIRhoWuE
 
-5) The Javascript code for creating the variable for messages and if variable score is accredited to Kevin Briggs Javascript tutorial: make a quiz
+The Javascript code for creating the variable for messages and if variable score is accredited to Kevin Briggs Javascript tutorial: make a quiz
 
 https://www.youtube.com/watch?v=C7NsIRhoWuE
 
-6) The CSS code for creating the style for the quiz is accredited to Kevin Briggs Javascript tutorial: make a quiz
+The CSS code for creating the style for the quiz is accredited to Kevin Briggs Javascript tutorial: make a quiz
 
 https://www.youtube.com/watch?v=C7NsIRhoWuE
 
-7) To add the previous and next buttons is accredited to the W3Schools 
+To add the previous and next buttons is accredited to the W3Schools 
 
 https://www.w3schools.com/howto/howto_css_next_prev.asp
 
@@ -298,18 +301,6 @@ The code for using css to style the hero image is accredited to the love running
 The hero image is accredited to iStock.
 
 https://www.istockphoto.com/search/2/image?phrase=cinema
-
-
-
-The questions and answers for the quiz are accredited to the Readers Digest 100 Movie Trivia Questions and Answers All Movie Lovers Should Know and kidadl movie questions.
-
-Readers Digest
-
-https://www.rd.com/article/movie-trivia-facts/
-
-Kidadl
-
-https://kidadl.com/articles/easy-movie-trivia-questions-and-answers-for-family-movie-night
 
 Setting up the logo and Navbar code is accredited to Responsive Navigation Bar Tutorial | HTML CSS JAVASCRIPT by DEV ED 
 
@@ -334,9 +325,9 @@ The hero image is accredited to iStock.
 https://www.istockphoto.com/search/2/image?phrase=cinema
 
 
+### Disclaimer
 
-
-This website and content has been created for educational purposes only.  All information, code and external resources have been accredited in the readme for purposes of comment,  research and scholarship.
+This website and content has been created for educational purposes only.  All information, code and external resources have been accredited in the readme for purposes of comment, research and scholarship.
 
 https://copyrightservice.co.uk/_f/7616/1882/9839/edupack.pdf
 
@@ -344,9 +335,6 @@ https://copyrightservice.co.uk/_f/7616/1882/9839/edupack.pdf
 https://www.rd.cohttps://copyrightservice.co.uk/_f/7616/1882/9839/edupack.pdfm/article/movie-trivia-facts/
 
 
-Whats the Closest Google Font?
-
-http://joelcrawfordsmith.com/closest-font/font/trajan
 
 
 
