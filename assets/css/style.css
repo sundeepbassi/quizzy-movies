@@ -33,6 +33,7 @@ body.wrong {
     --hue: var(--hue-wrong);
 }
 
+/* Primary and secondary heading styles*/
 h1 {
     position: absolute;
     top: 10px;
@@ -43,6 +44,8 @@ h1 {
     position: absolute;
     top: 80px;
   }
+
+  /* Main contaner quiz area styling for container, question  grid and  buttons. */ 
 
 .container {
     width: 800px;
