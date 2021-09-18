@@ -178,6 +178,9 @@ https://www.youtube.com/watch?v=riDzcEQbX6k
 
 https://www.youtube.com/watch?v=riDzcEQbX6k 
 
+10) Implementation of function showQuestion(question), function resetState() and function selectAnswer(e) are accredited to accredited to  Web Dev Simplified.
+
+https://www.youtube.com/watch?v=riDzcEQbX6k 
 
 
 
