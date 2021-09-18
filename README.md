@@ -18,6 +18,36 @@ The goal of the site is to provide a challenging quiz to entertain online users,
 
 ## 3. Features
 
+### Heading
+
+A fun welcome for the user.
+
+### Second Heading
+
+Lets the user know that correct answer is green box and incorrect is red box.
+
+### Start Button
+
+The user can press this button to start the quiz game.
+
+### Main Quiz Game
+
+On this page the user can play the quiz game. 
+
+The main container box area is used to incorporate both the questions and answers.
+
+The questions are at the top in the box.
+
+There are 4 answers in the four blue buttons and the user can click one of the buttons to reveal the answer.
+
+The correct answer will appear in a green button and the incorrect answers will appear in red.
+
+There is a next button at the bottom in the box and this will take the user to a new game box.
+
+At the end of the game there is a restart button that the user can click to play the game again.
+
+
+
 ## 4. Future Features
 
 Possibility of creating a log in form for potential users with password access.
@@ -28,7 +58,13 @@ Checked up on what font is used at the movies and trajan  was the top one develo
 
 ### Backround Colour
 
-The back ground colour for the whole site has been kept white for better visibility and simplicity.
+The back ground colour for the whole site has been kept using a hue of __________ and it is a light blue that changes to a light pink when a certain function happens. 
+
+### Font colour
+
+For Headings one and two and questions the font is black.
+
+For answers the font is white set against a blue background.
 
 
 ### Footer 
@@ -84,11 +120,14 @@ Gitpod
 
 9. Deployment
 
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+In the GitHub repository, navigate to the Settings tab
+From the source section drop-down menu, select the Master Branch
+Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found here 
+
 10. Credits
-
-
-
-
 
 1) To set up the filing system, implement the boiler plate and the intial commit are accredited to the love maths video from the Code Institute.
 
