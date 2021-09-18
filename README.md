@@ -324,25 +324,6 @@ The hero image is accredited to iStock.
 
 https://www.istockphoto.com/search/2/image?phrase=cinema
 
-
-### Disclaimer
-
-This website and content has been created for educational purposes only.  All information, code and external resources have been accredited in the readme for purposes of comment, research and scholarship.
-
-https://copyrightservice.co.uk/_f/7616/1882/9839/edupack.pdf
-
-
-https://www.rd.cohttps://copyrightservice.co.uk/_f/7616/1882/9839/edupack.pdfm/article/movie-trivia-facts/
-
-
-
-
-
-
-
-
-
-
 Tutorial on how to use wireframes and how to design a user input form at buttom of that page, it would be useful for when designing the quiz website.
 
 https://balsamiq.com/learn/
@@ -422,8 +403,24 @@ Building a Multiple Choice Quiz | Javascript | Tutorial 24
 
 https://www.youtube.com/watch?v=LQGTb112N_c
 
+### Disclaimer
+
+This website and content has been created for educational purposes only.  All information, code and external resources have been accredited in the readme for purposes of comment, research and scholarship.
+
+https://copyrightservice.co.uk/_f/7616/1882/9839/edupack.pdf
 
 
+https://www.rd.cohttps://copyrightservice.co.uk/_f/7616/1882/9839/edupack.pdfm/article/movie-trivia-facts/
+
+
+### Disclaimer
+
+This website and content has been created for educational purposes only.  All information, code and external resources have been accredited in the readme for purposes of comment, research and scholarship.
+
+https://copyrightservice.co.uk/_f/7616/1882/9839/edupack.pdf
+
+
+https://www.rd.cohttps://copyrightservice.co.uk/_f/7616/1882/9839/edupack.pdfm/article/movie-trivia-facts/
 
 
 
