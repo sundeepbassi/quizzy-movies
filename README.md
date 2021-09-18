@@ -93,9 +93,9 @@ Gitpod
 
 ## 8. Testing
 
-  ## 8.1 code validation
+  ## 8.1 Code validation
 
- ##  8.2 test cases (user story based with screenshots)
+ ##  8.2 Test cases (user story based with screenshots)
 
   ## 8.3 fixed bugs
 
@@ -124,7 +124,7 @@ Gitpod
 
  When I resubmitted the validation check for the script file in JShint it came back with no errors or warnings.
 
-## 8.4 supported screens and browsers
+## 8.4 Supported Screens and Browsers
 
 ## 9. Deployment
 
@@ -182,13 +182,34 @@ https://www.youtube.com/watch?v=riDzcEQbX6k
 
 https://www.youtube.com/watch?v=riDzcEQbX6k 
 
+11) Implementation of function setstatusclass, function clearstatusclass and const questions = are accredited to accredited to  Web Dev Simplified.
+
+https://www.youtube.com/watch?v=riDzcEQbX6k 
 
 
 
 
-To check warnings in JShint I used:
 
-a) google
+
+To check warnings in JShint I used the following resources:
+
+
+
+a) Youtube tutorials
+
+#LearningHowToCode #TiffInTech
+
+https://www.youtube.com/watch?v=5j_v9DldKhU
+
+Web Dev Simplified
+
+https://www.youtube.com/watch?v=vP2MNhC_Igw
+
+
+b) google
+
+
+c)
 
 b) JS lint error explanations
 
