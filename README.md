@@ -141,32 +141,46 @@ The live link can be found here
 
 2) The initial readme template was set up in Google docs and the layout for the template was shared on the slack community by fellow students.  For this project I did my research and added it to the google docs template both for planning and adding relevant information for the project. This was then installed into the git readme.
 
-3) Setting up questions,answers container,buttons and score for the quiz code accredited to Web Dev Simplified
+3) Setting up questions,answers container,buttons and score for the quiz code in the HTML file are accredited to Web Dev Simplified
 
 https://www.youtube.com/watch?v=riDzcEQbX6k  
 
-4) Setting up the style in the css style sheet for the quiz code accredited to Web Dev Simplified and I made adjustment for how to display the quiz.
+4) Setting up the style in the css style sheet for the quiz code accredited to Web Dev Simplified and I made adjustments for how to display the quiz.
+
+The following code in the style css is accredited Web Dev Simplified:
+
+I added the h1 and h2 and set the styling myself with also checked on google on how to position them.
+
+I adjusted the Hue colours as I did not want a dark background as I felt it made it look too closed in.
+
+I adjusted the btn-grid and grid-template to rows as I wanted the answer buttons to stack on top of each other so that it 
+enabled the user to have better control.
+
+/* Setting up the styling for the quiz code accredited to Web Dev Simplified, I added my own styling also*/
+
+*, *::before, *::after {
+box-sizing: border-box;
+font-family: Gotham Rounded;
+}, :root, body, body. correct, body.wrong, h1, h2, container, question, btn-grid, btn, btn:hover, btn.correct, btn.wrong,start-btn, next-btn, btn, controls and hide.
 
 https://www.youtube.com/watch?v=riDzcEQbX6k 
 
-5) Setting up the script file  for the quiz code is accredited to Web Dev Simplified
-
-https://www.youtube.com/watch?v=riDzcEQbX6k 
-
-6) Adjustments to colours checked on MDN Web Docs.
+5) Adjustments to colours checked on MDN Web Docs.
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/background-color
 
 
-7) Adjustments to font weight and font size was checked on MDN Web Docs.
+6) Adjustments to font weight and font size was checked on MDN Web Docs.
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight
 
-7a) For positioning elements.
+6a) For positioning elements.
 
 https://css-tricks.com/almanac/properties/p/position/
 
+7) Setting up the script file  for the quiz code is accredited to Web Dev Simplified
 
+https://www.youtube.com/watch?v=riDzcEQbX6k 
 
 8) Implementation of const startButton, const nextButton, const questionContainerElement, const questionElement and 
 const answerButtonsElement is accredited to  Web Dev Simplified.
@@ -234,10 +248,6 @@ Quiz app tutorial with html css and javascript
 
 https://www.youtube.com/watch?v=OLJOEYQfv2U
 
-5) The setting up of media queries for responsiveness is accredited to Merkim dev 
-Quiz app tutorial with html css and javascript
-
-https://www.youtube.com/watch?v=OLJOEYQfv2U
 
 6) The setting up of code in the script file is accredited to Merkim dev 
 Quiz app tutorial with html css and javascript
