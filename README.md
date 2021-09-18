@@ -120,6 +120,10 @@ Gitpod
   Whilst doing a validator check on Jshint for the script file there were 15 warnings reported back. Whilst watching a tutorial from Tiff in Tech she suggested to check on google when faults are reported in jshint. I followed the advice and copied the fault appearing in Jshint was const' is available in ES6 (use 'esversion: 6') or Mozilla JS extensions (use moz). When I googled this warning there was a response in stack overflow to put this at the top of a script file /*jshint esversion: 6 */.
  I did this and 14 warnings were removed off Jshint.
 
+ There was only 1 warning left in jshint A leading decimal point can be confused with a dot: '.5'. and when I googled it I got a response from JSLint error explanations which was to place /*jshint -W008 */ in the top of the script file.
+
+ When I resubmitted the validation check for the script file in JShint it came back with no errors or warnings.
+
 ## 8.4 supported screens and browsers
 
 ## 9. Deployment
@@ -173,6 +177,26 @@ https://www.youtube.com/watch?v=riDzcEQbX6k
 9} Implementation of startButton.addEventListener, function startGame() and function setNextQuestion are accredited to accredited to  Web Dev Simplified.
 
 https://www.youtube.com/watch?v=riDzcEQbX6k 
+
+
+
+
+
+
+To check warnings in JShint I used:
+
+a) google
+
+b) JS lint error explanations
+
+http://linterrors.com/js/a-leading-decimal-point-can-be-confused-with-a-dot-a
+
+c) Stack Overflow
+
+https://stackoverflow.com/questions/27441803/why-does-jshint-throw-a-warning-if-i-am-using-const
+
+
+
 
 
 
