@@ -167,6 +167,23 @@ The live link can be found here
 
 2) The initial readme template was set up in Google docs and the layout for the template was shared on the slack community by fellow students.  For this project I did my research and added it to the google docs template both for planning and adding relevant information for the project. This was then installed into the git readme.
 
+3) The intro, headerText, greetingInput, userName, submit and greeting are accredited to Keith Paterson Make a simple quiz webpage using HTML JS.
+
+[Keith Paterson](https://www.youtube.com/watch?v=79WRPIknVHs&t=72s)
+
+4) Intro and greetingInput styles code are accredited to Keith Peterson Make a simple quiz webpage, 
+it was also  checked on MDN Web Docs for font size and CSS Tricks for positioning.
+
+[Keith Paterson](https://www.youtube.com/watch?v=79WRPIknVHs&t=72s)
+
+5) The 3 let statements in the script file are accredited to Keith Paterson Make a simple quiz webpage.
+
+[Keith Paterson](https://www.youtube.com/watch?v=79WRPIknVHs&t=72s)
+
+
+
+
+
 3) Setting up questions,answers container,buttons and score for the quiz code in the HTML file are accredited to Web Dev Simplified
 
 [Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k) 

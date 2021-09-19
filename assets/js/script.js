@@ -20,16 +20,21 @@ nextButton.addEventListener('click', () => {
     setNextQuestion();
 });
 
+/* The 3 let statements below are accredited to Keith Paterson Make a simple quiz webpage*/
+
 let userName = document.querySelector("#userName");
 let headerText = document.querySelector("#headerText");
+let greetingInput = document.querySelector("#greetingInput");
 
+/* The function greeting and the greetingInput below are accredited to Keith Paterson Make a simple quiz webpage*/
 
 function greeting() {
   
   headerText.innerHTML = "";
   headerText.innerHTML = "Hello " + userName.value + ", welcome and we hope you enjoy the quiz.";
-  
+  greetingInput.style.display = "none";
 }
+
 function startGame() {
     startButton.classList.add('hide');
     shuffledQuestions = questions.sort(() => Math.random() - .5);
