@@ -1,7 +1,18 @@
-/*jshint esversion: 6 */  /*jshint -W008 */
+/*jshint esversion: 6 */  /*jshint -W008 */   
+
 
 /* Setting up the script file  with content variables and all functions for the quiz code is accredited to Web Dev Simplified*/
 
+let userName = document.querySelector("#userName");
+let headerText = document.querySelector("#headerText");
+
+// greeting is considered used here
+function greeting() {
+  //...
+   headerText.innerHTML = "";
+   headerText.innerHTML = "Hello " + userName.value + ", welcome and we hope you enjoy the quiz.";
+
+}
 
 const startButton = document.getElementById('start-btn');
 const nextButton = document.getElementById('next-btn');

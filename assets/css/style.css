@@ -36,17 +36,25 @@ body.wrong {
  and CSS Tricks for positioning*/
 
  #intro { position: absolute;
-    top: 10px;
+    top: 5px;
  }
 
  #username {
      position: absolute;
-     top: 130px
+     top: 100px
  }
 
  #submit {
      position: absolute;
-     top: 160px;
+     top: 170px;
+     --hue: var(--hue-neutral);
+     border: 1px solid hsl(var(--hue), 100%, 30%);
+     background-color: hsl(var(--hue), 100%, 50%);
+     border-radius: 5px;
+     padding: 5px 10px;
+     color: white;
+     outline: none;
+     font-size: 1.5rem;
  }
   /* Main contaner quiz area styling for container, question  grid and  buttons. code accredited to Web Dev Simplified*/ 
 
