@@ -6,7 +6,6 @@ font-family: Gotham Rounded;
 /* Setting up the styling for the quiz code accredited to Web Dev Simplified, I added my own styling also*/
 
 
-
 :root {
     --hue-neutral: 200;
     --hue-wrong: 0;
@@ -35,17 +34,20 @@ body.wrong {
 
 /* Primary and secondary heading styles code I implemented and it was also  checked on MDN Web Docs for font size
  and CSS Tricks for positioning*/
-h1 {
-    position: absolute;
+
+ #intro { position: absolute;
     top: 10px;
-    font-size: 40px;
-  }
+ }
 
-  h2 {
-    position: absolute;
-    top: 80px;
-  }
+ #username {
+     position: absolute;
+     top: 130px
+ }
 
+ #submit {
+     position: absolute;
+     top: 160px;
+ }
   /* Main contaner quiz area styling for container, question  grid and  buttons. code accredited to Web Dev Simplified*/ 
 
 .container {
