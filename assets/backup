@@ -8,3 +8,20 @@ h1 {
     position: absolute;
     top: 80px;
   }
+
+  let userName = document.querySelector("#userName");
+let headerText = document.querySelector("#headerText");
+let greetingInput = document.querySelector("#greetingInput");
+
+
+
+function greeting() {
+  
+   headerText.innerHTML = "";
+   headerText.innerHTML = "Hello " + userName.value + ", welcome and we hope you enjoy the quiz.";
+   greetingInput.style.display = "none";
+   
+
+   
+
+}

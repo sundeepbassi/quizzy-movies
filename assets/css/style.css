@@ -41,12 +41,13 @@ body.wrong {
 
  #username {
      position: absolute;
-     top: 100px
+     top: 120px
  }
 
  #submit {
      position: absolute;
-     top: 170px;
+     left: 250px;
+     top: 120px;
      --hue: var(--hue-neutral);
      border: 1px solid hsl(var(--hue), 100%, 30%);
      background-color: hsl(var(--hue), 100%, 50%);
