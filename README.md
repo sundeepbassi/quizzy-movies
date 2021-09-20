@@ -15,15 +15,17 @@ The goal of the site is to provide a challenging quiz to entertain online users,
 
 ## 2. User Stories
 
-1) As a user I want to play a quiz game about movies.
+1) As a user I want to submit my name.
 
-2) As a user I want to know which questions I got correct and those I got incorrect.
+2) As a user I want to play a quiz game about movies.
 
-3) As a user I want to see a variety of questions about movies.
+3) As a user I want to know which questions I got correct and those I got incorrect.
 
-4) As a user I want to be able to use one click to play the game.
+4) As a user I want to see a variety of questions about movies.
 
-5) As a user I want to be able to restart the game at the end.
+5) As a user I want to be able to use one click to play the game.
+
+6) As a user I want to be able to restart the game at the end.
 
 ## 3. Features
 
