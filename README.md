@@ -147,6 +147,10 @@ W3C Mark Up Validation Service
  ##  8.2 Test cases (user story based with screenshots)
 
  1) As a user I want to submit my name.
+   
+[Submit Name](assets/screenshots/submit-name.jpg)
+
+[Greeting to User](assets/screenshots/karmarpa8889.jpg)
 
 2) As a user I want to play a quiz game about movies.
 
