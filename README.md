@@ -275,6 +275,13 @@ d) Stack Overflow
 
 [Stack Overfow](https://stackoverflow.com/questions/27441803/why-does-jshint-throw-a-warning-if-i-am-using-const)
 
+18) To add Height and width to the input box was checked on w3Schools.
+
+[w3schools](https://www.w3schools.com/css/css_form.asp)
+
+
+
+
 ### Content
 
 A good aricle below from UX Design World about the 3 click and 1 click rule.
