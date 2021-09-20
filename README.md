@@ -162,6 +162,8 @@ The screenshot below shows the welcome and greeting the user gets with the name 
 
 3) As a user I want to know which questions I got correct and those I got incorrect.
 
+[correct and incorrect answers](assets/screenshots/answers.jpg)
+
 
 4) As a user I want to be able to use buttons to navigate and use one click to play the game.
 
