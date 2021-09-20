@@ -23,7 +23,7 @@ The goal of the site is to provide a challenging quiz to entertain online users,
 
 4) As a user I want to see a variety of questions about movies.
 
-5) As a user I want to be able to use one click to play the game.
+5) As a user I want to be able to use buttons to navigate and use one click to play the game.
 
 6) As a user I want to be able to restart the game at the end.
 
