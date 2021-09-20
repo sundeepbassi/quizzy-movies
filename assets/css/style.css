@@ -32,6 +32,12 @@ body.wrong {
     --hue: var(--hue-wrong);
 }
 
+h1 {
+font-size: 40px;
+font-weight: bolder ;
+
+}
+
 /* Intro and greetingInput styles code  implemented and accredited to Keith Peterson Make a simple quiz webpage, 
 it was also  checked on MDN Web Docs for font size and CSS Tricks for positioning*/
 
