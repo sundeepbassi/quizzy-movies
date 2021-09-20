@@ -45,7 +45,7 @@ A next button this is placed at the bottom of the quiz game cards box and it ena
 
 A restart button at the end of the game, is displayed at the botttom of the quiz card and the user can then restart the game.
 
-Theses button funstions enable the user to remain focused on the quiz. The aim is to enable the user to click once for each action
+Theses button functions enable the user to remain focused on the quiz. The aim is to enable the user to click once for each action
 so as to keep the user engaged with the quiz game. 
 
 In my research into good user experience design I looked at the 3 click rule and the 1 click rule. 
@@ -60,11 +60,15 @@ It will also bring the user closer to their destination as stated in the article
 
 A fun welcome for the user.
 
-### Second Heading
+### Input Box
 
-Lets the user know that correct answer is green box and incorrect is red box.
+User to put in their name.
 
-### Start Button
+### Submit button
+
+The user presses this after the user inputs their name.
+
+### Start The Quiz Game Button
 
 The user can press this button to start the quiz game.
 
@@ -78,7 +82,7 @@ The questions are at the top in the box.
 
 There are 4 answers in the four blue buttons and the user can click one of the buttons to reveal the answer.
 
-The correct answer will appear in a green button and the incorrect answers will appear in red.
+The correct answer will appear in a green button box and the incorrect answers will appear in a red button boxes.
 
 There is a next button located at the bottom in the box and this will take the user to a new game box.
 
@@ -88,7 +92,7 @@ At the end of the game there is a restart button that the user can click to play
 
 ## 4. Future Features
 
-Possibility of creating a log in form for potential users with password access.
+Possibility of creating a log in form for potential users with a password access.
 
 ## 5. Typography and Colour Scheme
 
@@ -96,7 +100,7 @@ Checked up on what font is used at the movies and trajan  was the top one develo
 
 ### Backround Colour
 
-The back ground colour for the whole site has been kept using a hue of __________ and it is a light blue that changes to a light pink when a certain function happens. 
+The back ground colour for the whole site has been kept using a hue of hsl(var(--hue), 100%, 94%) and it is a light blue that changes to a light pink when there is an incorrect answer function happens. 
 
 ### Font colour
 
@@ -127,7 +131,13 @@ Github
 
 Gitpod
 
+W3C Mark Up Validation Service
 
+[W3C HTML Validator](https://validator.w3.org/)
+
+[W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+[JSHINT Javascript Validator](https://jshint.com/)
 
 ## 8. Testing
 
@@ -135,6 +145,18 @@ Gitpod
   
 
  ##  8.2 Test cases (user story based with screenshots)
+
+ 1) As a user I want to submit my name.
+
+2) As a user I want to play a quiz game about movies.
+
+3) As a user I want to know which questions I got correct and those I got incorrect.
+
+4) As a user I want to see a variety of questions about movies.
+
+5) As a user I want to be able to use buttons to navigate and use one click to play the game.
+
+6) As a user I want to be able to restart the game at the end.
 
   ## 8.3 Fixed bugs
 
