@@ -124,6 +124,7 @@ Gitpod
 ## 8. Testing
 
   ## 8.1 Code validation
+  
 
  ##  8.2 Test cases (user story based with screenshots)
 
@@ -180,15 +181,15 @@ it was also  checked on MDN Web Docs for font size and CSS Tricks for positionin
 
 [Keith Paterson](https://www.youtube.com/watch?v=79WRPIknVHs&t=72s)
 
+6) The function greeting and the greetingInput are accredited to Keith Paterson Make a simple quiz webpage.
 
+[Keith Paterson](https://www.youtube.com/watch?v=79WRPIknVHs&t=72s)
 
-
-
-3) Setting up questions,answers container,buttons and score for the quiz code in the HTML file are accredited to Web Dev Simplified
+7) Setting up questions,answers container,buttons and score for the quiz code in the HTML file are accredited to Web Dev Simplified
 
 [Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k) 
 
-4) Setting up the style in the css style sheet for the quiz code accredited to Web Dev Simplified and I made adjustments for how to display the quiz.
+8) Setting up the style in the css style sheet for the quiz code accredited to Web Dev Simplified and I made adjustments for how to display the quiz.
 
 The following code in the style css is accredited Web Dev Simplified:
 
@@ -213,15 +214,15 @@ font-family: Gotham Rounded;
 https://developer.mozilla.org/en-US/docs/Web/CSS/background-color
 
 
-6) Adjustments to font weight and font size was checked on MDN Web Docs.
+9) Adjustments to font weight and font size was checked on MDN Web Docs.
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight
 
-6a) For positioning elements.
+10) For positioning elements.
 
 https://css-tricks.com/almanac/properties/p/position/
 
-7) To Set up the media queries to work on all devices and the  Code is accredited to to Merkim dev tutorials. These included
+11) To Set up the media queries to work on all devices and the  Code is accredited to to Merkim dev tutorials. These included
 the @media screen and (max-width:1024px), @media screen and (max-width:768px) and @media screen and (max-width:480px).
 
 However I had to adjust the specific elements responsiveness for them myself.
@@ -229,29 +230,29 @@ However I had to adjust the specific elements responsiveness for them myself.
 [Merkim dev tutorials](https://www.youtube.com/watch?v=OLJOEYQfv2U)
 
 
-8) Setting up the script file  for the quiz code is accredited to Web Dev Simplified
+12) Setting up the script file  for the quiz code is accredited to Web Dev Simplified
 
 [Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k) 
 
-9) Implementation of const startButton, const nextButton, const questionContainerElement, const questionElement and 
+13) Implementation of const startButton, const nextButton, const questionContainerElement, const questionElement and 
 const answerButtonsElement is accredited to  Web Dev Simplified.
 
 [Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k) 
 
 
-10} Implementation of startButton.addEventListener, function startGame() and function setNextQuestion are accredited to accredited to  Web Dev Simplified.
+14} Implementation of startButton.addEventListener, function startGame() and function setNextQuestion are accredited to accredited to  Web Dev Simplified.
 
 [Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k0) 
 
-11) Implementation of function showQuestion(question), function resetState() and function selectAnswer(e) are accredited to accredited to  Web Dev Simplified.
+15) Implementation of function showQuestion(question), function resetState() and function selectAnswer(e) are accredited to accredited to  Web Dev Simplified.
 
 [Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k)
 
-12) Implementation of function setstatusclass, function clearstatusclass and const questions = are accredited to accredited to  Web Dev Simplified.
+16) Implementation of function setstatusclass, function clearstatusclass and const questions = are accredited to accredited to  Web Dev Simplified.
 
 [Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k) 
 
-13) To check warnings in JShint I used the following resources:
+17) To check warnings in JShint I used the following resources:
 
 a) Youtube tutorials
 

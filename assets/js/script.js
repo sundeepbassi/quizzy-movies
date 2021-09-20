@@ -35,6 +35,9 @@ function greeting() {
   greetingInput.style.display = "none";
 }
 
+/* The functions below and the const = questions for the quiz code is accredited to Web Dev Simplified*/
+
+
 function startGame() {
     startButton.classList.add('hide');
     shuffledQuestions = questions.sort(() => Math.random() - .5);

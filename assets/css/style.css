@@ -137,28 +137,41 @@ However I had to adjust the specific elements and styling for them myself */
 }
     
 @media screen and (max-width:768px) {
-    .container h1{
+    .container {
         width: 40%;
     }
+        #intro { 
+            display: none;
+        }
+       
+       #greetingInput { 
+            display: none;
+       }
+         
+    
+
+       
+
+
+
 }
 
 @media screen and (max-width:480px) {
- h1 {
+    
+    #intro { 
         display: none;
     }
-    
-    
-h2 {
-    display: none;
-}
+   
+   #greetingInput { 
+        display: none;
+   }
+     
 
     .container {
         width: 90vw;
     }
 
-.welcome p {
-    font-size: 20px;
-}
+
 
 }
 
