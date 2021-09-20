@@ -164,10 +164,12 @@ The screenshot below shows the welcome and greeting the user gets with the name 
 
 [correct and incorrect answers](assets/screenshots/answers.jpg)
 
+4) As a user I want to be able to restart the quiz game.
 
-4) As a user I want to be able to use buttons to navigate and use one click to play the game.
+[Restart Button](assets/screenshots/restart.jpg)
 
-5) As a user I want to be able to restart the game at the end.
+
+
 
   ## 8.3 Fixed bugs
 
