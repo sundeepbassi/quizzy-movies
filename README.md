@@ -147,20 +147,25 @@ W3C Mark Up Validation Service
  ##  8.2 Test cases (user story based with screenshots)
 
  1) As a user I want to submit my name.
+
+ The screenshot below shows that a user can submit their name into an input box.
    
 [Submit Name](assets/screenshots/submit-name.jpg)
+
+The screenshot below shows the welcome and greeting the user gets with the name that they have submitted.
 
 [Greeting to User](assets/screenshots/karmarpa8889.jpg)
 
 2) As a user I want to play a quiz game about movies.
 
+[A movie quiz game](assets/screenshots/quiz-movie.jpg)
+
 3) As a user I want to know which questions I got correct and those I got incorrect.
 
-4) As a user I want to see a variety of questions about movies.
 
-5) As a user I want to be able to use buttons to navigate and use one click to play the game.
+4) As a user I want to be able to use buttons to navigate and use one click to play the game.
 
-6) As a user I want to be able to restart the game at the end.
+5) As a user I want to be able to restart the game at the end.
 
   ## 8.3 Fixed bugs
 
