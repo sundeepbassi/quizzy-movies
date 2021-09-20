@@ -29,15 +29,21 @@ The goal of the site is to provide a challenging quiz to entertain online users,
 
 ### Navigation 
 
-The navigation for this site is very simple:
+The navigation for this site is very simple and easy to use:
 
-A start button
+The user uses a series of buttons to navigate in the quiz game.
 
-A next button
+An Input name box. This is where the user can input their name.
 
-A restart button
+A submit button for the user to use after inputting their name. Then the user is welcomed with a friendly message.
 
-This enables the user to remain focused on the quiz and only having to click once for each action
+A start the quiz button, for the user to start the quiz game.
+
+A next button this is placed at the bottom of the quiz game cards box and it enables the user to go to the next game. 
+
+A restart button at the end of the game, is displayed at the botttom of the quiz card and the user can then restart the game.
+
+Theses button funstions enable the user to remain focused on the quiz. The aim is to enable the user to click once for each action
 so as to keep the user engaged with the quiz game. 
 
 In my research into good user experience design I looked at the 3 click rule and the 1 click rule. 
