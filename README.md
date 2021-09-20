@@ -158,13 +158,19 @@ The screenshot below shows the welcome and greeting the user gets with the name 
 
 2) As a user I want to play a quiz game about movies.
 
+The screenshot below shows the quiz game that the user can play on. There is a question and 5 answers.
+
 [A movie quiz game](assets/screenshots/quiz-movie.jpg)
 
 3) As a user I want to know which questions I got correct and those I got incorrect.
 
+The screenshot below shows the correct answer in green and the wrong answers in red.
+
 [correct and incorrect answers](assets/screenshots/answers.jpg)
 
 4) As a user I want to be able to restart the quiz game.
+
+The screenshot below shows at the bottom of the container there is a restart button to begin the game again.
 
 [Restart Button](assets/screenshots/restart.jpg)
 
