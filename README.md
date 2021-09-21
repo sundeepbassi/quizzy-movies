@@ -104,7 +104,10 @@ The white font on the blue background worked good for visibility.
 
 The white font on the red background worked good for visibility.
 
-However the white font on the green background was not good for visibility.
+However the white font on the green background was not good for visibility.  
+
+The green box I am using is for the correct answers in the quiz.
+
 
  [Colour Chart](assets/screenshots/colour-chart.png)
 
@@ -221,6 +224,13 @@ The screenshot below shows at the bottom of the container there is a restart but
  When I resubmitted the validation check for the script file in JShint it came back with no errors or warnings.
 
 ## 8.4 Supported Screens and Browsers
+
+1) This is what the first page looks like when it is reduced down to 770.40px screensize.
+
+[A view of first page at 770.40px](assets/screenshots/browser-770.jpg)
+
+
+
 
 ## 9. Deployment
 
