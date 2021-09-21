@@ -2,15 +2,16 @@
 
 ## 1. Purpose of the Project
 
-Design a website for people to do a quiz on movies.
+- Design a website for people to do a quiz on movies.
 
 ### External user’s goal:
 
-The site’s users want to play an online quiz to test specific knowledge about movies.
+- The site’s users want to play an online quiz to test specific knowledge about movies.
 
 ### Site owner’s goal: 
 
-The goal of the site is to provide a challenging quiz to entertain online users,
+- The goal of the site is to provide a challenging quiz to entertain online users,
+
 
 
 ## 2. User Stories
@@ -23,6 +24,7 @@ The goal of the site is to provide a challenging quiz to entertain online users,
 
 4) As a user I want to be able to restart the game at the end.
 
+
 ## 3. Features
 
 ### Navigation 
@@ -31,96 +33,95 @@ The goal of the site is to provide a challenging quiz to entertain online users,
 
 - The user uses a series of buttons to navigate in the quiz game.
 
-An Input name box. This is where the user can input their name.
+- An Input name box. This is where the user can input their name.
 
-A submit button for the user to use after inputting their name. Then the user is welcomed with a friendly message.
+- A submit button for the user to use after inputting their name. Then the user is welcomed with a friendly message.
 
-A start the quiz button, for the user to start the quiz game.
+- A start the quiz button, for the user to start the quiz game.
 
-A next button this is placed at the bottom of the quiz game cards box and it enables the user to go to the next game. 
+- A next button this is placed at the bottom of the quiz game cards box and it enables the user to go to the next game. 
 
-A restart button at the end of the game, is displayed at the botttom of the quiz card and the user can then restart the game.
+- A restart button at the end of the game, is displayed at the botttom of the quiz card and the user can then restart the game.
 
-Theses button functions enable the user to remain focused on the quiz. The aim is to enable the user to click once for each action
-so as to keep the user engaged with the quiz game. 
+- Theses button functions enable the user to remain focused on the quiz. The aim is to enable the user to click once for each action so as to keep the user engaged with the quiz game. 
 
-In my research into good user experience design I looked at the 3 click rule and the 1 click rule. 
+- In my research into good user experience design I looked at the 3 click rule and the 1 click rule. 
 
-There is further information in the credits about this. I stuck to the 1 click rule because as it is a quiz game I want the user to feel in control with clicking once and not getting frustrated.
+- There is further information in the credits about this. I stuck to the 1 click rule because as it is a quiz game I want the user to feel in control with clicking once and not getting frustrated.
 
-It will also bring the user closer to their destination as stated in the article in the credits section and in the link below.
+- It will also bring the user closer to their destination as stated in the article in the credits section and in the link below.
 
-[UX Design World](https://uxdworld.com/2020/01/28/3-click-rule-and-usability/)
+  - [UX Design World](https://uxdworld.com/2020/01/28/3-click-rule-and-usability/)
 
 ### Heading
 
-A fun welcome for the user.
+- A fun welcome for the user.
 
 ### Input Box
 
-User to put in their name.
+- User to put in their name.
 
 ### Submit button
 
-The user presses this after the user inputs their name.
+- The user presses this after the user inputs their name.
 
 ### Start The Quiz Game Button
 
-The user can press this button to start the quiz game.
+- The user can press this button to start the quiz game.
 
 ### Main Quiz Game
 
-On this page the user can play the quiz game. 
+- On this page the user can play the quiz game. 
 
-The main container box area is used to incorporate both the questions and answers.
+- The main container box area is used to incorporate both the questions and answers.
 
-The questions are at the top in the box.
+- The questions are at the top in the box.
 
-There are 4 answers in the four blue buttons and the user can click one of the buttons to reveal the answer.
+- There are 4 answers in the four blue buttons and the user can click one of the buttons to reveal the answer.
 
-The correct answer will appear in a green button box and the incorrect answers will appear in a red button boxes.
+- The correct answer will appear in a green button box and the incorrect answers will appear in a red button boxes.
 
-There is a next button located at the bottom in the box and this will take the user to a new game box.
+- There is a next button located at the bottom in the box and this will take the user to a new game box.
 
-At the end of the game there is a restart button that the user can click to play the game again.
+- At the end of the game there is a restart button that the user can click to play the game again.
 
 
 
 ## 4. Future Features
 
-Possibility of creating a log in form for potential users with a password access.
+- Possibility of creating a log in form for potential users with a password access.
 
 ## 5. Typography and Colour Scheme
 
-Checked up on what font is used at the movies and trajan  was the top one developed by Adobe.  However I decided not to use this style.
+- Checked up on what font is used at the movies and trajan  was the top one developed by Adobe.  However I decided not to use this style.
 
 ### Colour Scheme
 
-I used the colour chart below to check the contrast between the colours for users with visibility needs.
+- I used the colour chart below to check the contrast between the colours for users with visibility needs.
 
-The black font on the white background worked good for visibility.
+- The black font on the white background worked good for visibility.
 
-The white font on the blue background worked good for visibility.
+- The white font on the blue background worked good for visibility.
 
-The white font on the red background worked good for visibility.
+- The white font on the red background worked good for visibility.
 
-However the white font on the green background was not good for visibility.  
+- However the white font on the green background was not good for visibility.  
 
-The green box I am using is for the correct answers in the quiz.
+- The green box I am using is for the correct answers in the quiz.
 
-I ran a lighthouse test on google dev tools and it was 83 for accessibility so I decided to change the font colour to black and it went up to 87 for accessibility.
+- I ran a lighthouse test on google dev tools and it was 83 for accessibility so I decided to change the font colour to black and it went up to 87 for accessibility.
 
- [Colour Chart](assets/screenshots/colour-chart.png)
+  - [Colour Chart](assets/screenshots/colour-chart.png)
 
 ### Background Colour
 
-The back ground colour for the whole site has been kept using a hue of hsl(var(--hue), 100%, 94%) and it is a light blue that changes to a light pink when there is an incorrect answer function happens. 
+- The back ground colour for the whole site has been kept using a hue of hsl(var(--hue), 100%, 94%) and it is a light blue that changes to a light pink when there is an incorrect answer function happens. 
 
 ### Font colour
 
-For Headings one and two and questions the font is black.
+- For Headings one and two and questions the font is black.
 
-For answers the font is white set against a blue background.
+- For answers the font is white set against a blue background.
 
 ## 6. Wireframes
 
@@ -152,11 +153,31 @@ For answers the font is white set against a blue background.
   
   - The HTML validator check passed successfully as shown in the screenshot below.
 
+
     - [HTML Passed](assets/screenshots/html-pass2.jpg)  Screenshot taken on the 21 September 2021.
+
     
   - The CSS validator check passed successfully as shown in the screenshot below.
 
+
     - [CSS Passed](assets/screenshots/css-pass2.jpg)  Screenshot taken on the 21 September 2021.
+
+
+  - The Javascript validator reported  that there was one unused variable 31 greeting.  I showed my mentor and we checked both
+  the HTML and the script file and my mentor explained that this warning can be ignored because greeting has been defined in the HTML file as a function. 
+
+
+- Metrics
+- There are 12 functions in this file.
+
+- Function with the largest signature take 2 arguments, while the median is 0.5.
+
+- Largest function has 8 statements in it, while the median is 2.5.
+
+- The most complex function has a cyclomatic complexity value of 2 while the median is 1.
+
+    - [JSHint](assets/screenshots/javascript-valid.jpg)  Screenshot taken on the 21 September 2021.
+
 
 
  ##  8.2 Test cases (user story based with screenshots)
