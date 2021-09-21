@@ -96,6 +96,16 @@ Checked up on what font is used at the movies and trajan  was the top one develo
 
 ### Colour Scheme
 
+I used the colour chart below to check the contrast between the colours for users with visibility needs.
+
+The black font on the white background worked good for visibility.
+
+The white font on the blue background worked good for visibility.
+
+The white font on the red background worked good for visibility.
+
+However the white font on the green background was not good for visibility.
+
  [Colour Chart](assets/screenshots/colour-chart.png)
 
 ### Backround Colour
