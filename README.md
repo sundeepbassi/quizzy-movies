@@ -108,7 +108,7 @@ However the white font on the green background was not good for visibility.
 
 The green box I am using is for the correct answers in the quiz.
 
-
+I ran a lighthouse test on google dev tools and it was 83 for accessibility so I decided to change the font colour to black and it went up to 87 for accessibility.
  [Colour Chart](assets/screenshots/colour-chart.png)
 
 ### Backround Colour
@@ -249,7 +249,7 @@ The screenshot below shows at the bottom of the container there is a restart but
 6) I had to add a @media screen and (max-width:982px) so that the intro and greetingInput would not distort the quiz container box with answers.    Below 982px the view of the quiz game with the answers will only display the quiz container.  I gave the ID's intro and  greetingInput a display: none;.  As these ID's were distorting the page in the lower screen sizes.
 
 
-[A view of the quiz game below 982px](assets/screenshots/answers-small.jpg)
+[A view of the quiz game with answers below 982px](assets/screenshots/answers-small.jpg)
 
 
 
@@ -597,7 +597,7 @@ https://copyrightservice.co.uk/_f/7616/1882/9839/edupack.pdf
 
 https://www.rd.cohttps://copyrightservice.co.uk/_f/7616/1882/9839/edupack.pdfm/article/movie-trivia-facts/
 
-
+[Simple Steps Code](https://simplestepscode.com/javascript-quiz-tutorial/)
 
 
 
