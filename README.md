@@ -27,9 +27,9 @@ The goal of the site is to provide a challenging quiz to entertain online users,
 
 ### Navigation 
 
-The navigation for this site is very simple and easy to use:
+- The navigation for this site is very simple and easy to use:
 
-The user uses a series of buttons to navigate in the quiz game.
+- The user uses a series of buttons to navigate in the quiz game.
 
 An Input name box. This is where the user can input their name.
 
@@ -157,14 +157,13 @@ W3C Mark Up Validation Service
 
   ## 8.1 Code validation
   
-  1) The HTML validator check passed successfully as shown in the screenshot below.
+  - The HTML validator check passed successfully as shown in the screenshot below.
 
-  [HTML Passed](assets/screenshots/html-pass2.jpg)  Screenshot taken on the 21 September 2021.
+    - [HTML Passed](assets/screenshots/html-pass2.jpg)  Screenshot taken on the 21 September 2021.
 
-  2) The CSS validator check passed successfully as shown in the screenshot below.
+  - The CSS validator check passed successfully as shown in the screenshot below.
 
-
-  [CSS Passed](assets/screenshots/css-pass2.jpg)  Screenshot taken on the 21 September 2021.
+    - [CSS Passed](assets/screenshots/css-pass2.jpg)  Screenshot taken on the 21 September 2021.
 
 
  ##  8.2 Test cases (user story based with screenshots)
