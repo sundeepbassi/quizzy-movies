@@ -109,6 +109,7 @@ However the white font on the green background was not good for visibility.
 The green box I am using is for the correct answers in the quiz.
 
 I ran a lighthouse test on google dev tools and it was 83 for accessibility so I decided to change the font colour to black and it went up to 87 for accessibility.
+
  [Colour Chart](assets/screenshots/colour-chart.png)
 
 ### Backround Colour
@@ -250,23 +251,6 @@ The screenshot below shows at the bottom of the container there is a restart but
 
 
 [A view of the quiz game with answers below 982px](assets/screenshots/answers-small.jpg)
-
-
-
-
-
-
-
-
-        
-       
-       
-          
-       
-         
-
-
-
 
 ## 9. Deployment
 
@@ -599,8 +583,11 @@ https://www.rd.cohttps://copyrightservice.co.uk/_f/7616/1882/9839/edupack.pdfm/a
 
 [Simple Steps Code](https://simplestepscode.com/javascript-quiz-tutorial/)
 
+#### Acknowledgements
 
+ I would like to thank my mentor Excellence LLesanmi for pushing me to do my best and to do it with excellence. Excellence has challenged me to really think about the project in detail and how the mechanisms and functions all fit and work together. Through Excellences wisdom and insights, I have been able to better understand the interactivity of incorparating Javascript into the project. I am very grateful for having a brilliant mentor that empowers me to think more constructively and to use my skills more effectively.
 
+ I would like to thank the assessor that assessed my first portfolio project The Wellbeing Retreat for giving me excellent feedback for reflecting on how I performed with the first project.  I found the comments really helped to look at how I developed that project and where I could make improvements. 
 
 
 
