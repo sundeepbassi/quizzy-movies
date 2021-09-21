@@ -229,6 +229,37 @@ The screenshot below shows at the bottom of the container there is a restart but
 
 [A view of first page at 770.40px](assets/screenshots/browser-770.jpg)
 
+2) Below 767px the view of the first page will only display the start the quiz button.  I gave the ID's intro and  greetingInput a display: none;.  As these ID's were distorting the page in the lower screen sizes.
+
+[A view of first page at a smaller screensize](assets/screenshots/screensize-smaller.jpg)
+
+3)
+
+[A view of the quiz game at 788px](assets/screenshots/screensize-788.jpg)
+
+
+[A view of first page at 770.40px](assets/screenshots/browser-770.jpg)
+
+
+[A view of first page at 770.40px](assets/screenshots/browser-770.jpg)
+
+
+[A view of first page at 770.40px](assets/screenshots/browser-770.jpg)
+
+
+[A view of first page at 770.40px](assets/screenshots/browser-770.jpg)
+
+
+
+
+
+        
+       
+       
+          
+       
+         
+
 
 
 
