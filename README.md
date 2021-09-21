@@ -112,7 +112,7 @@ I ran a lighthouse test on google dev tools and it was 83 for accessibility so I
 
  [Colour Chart](assets/screenshots/colour-chart.png)
 
-### Backround Colour
+### Background Colour
 
 The back ground colour for the whole site has been kept using a hue of hsl(var(--hue), 100%, 94%) and it is a light blue that changes to a light pink when there is an incorrect answer function happens. 
 
@@ -122,36 +122,29 @@ For Headings one and two and questions the font is black.
 
 For answers the font is white set against a blue background.
 
-
-### Footer 
-
-The background colour for footer set to the same colour as the navbar  rgba(185, 36, 9, 0.986), so that it kept the same consistency for the user not to get distracted.  
-
-The font colour for the social media links were set to the same colour as the loge navbar links rgb(238, 226, 226) so as to maintain consistency and uniformity.  I also wanted the user to intuitively know where the navlinks were and the social media links one being for navigation purposes and the other being accessible external links.
-
 ## 6. Wireframes
 
 ## 7. Technology
 
-Html
+  - Html
 
-Cascading Style Sheets
+  - Cascading Style Sheets
 
-Javascript
+  - Javascript
 
-Google Dev Tools
+  - Google Dev Tools
 
-Github
+  - Github
 
-Gitpod
+  - Gitpod
 
-W3C Mark Up Validation Service
+  - W3C Mark Up Validation Service
 
-[W3C HTML Validator](https://validator.w3.org/)
+  - [W3C HTML Validator](https://validator.w3.org/)
 
-[W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+  - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
-[JSHINT Javascript Validator](https://jshint.com/)
+  - [JSHINT Javascript Validator](https://jshint.com/)
 
 ## 8. Testing
 
@@ -382,7 +375,7 @@ d) Stack Overflow
 
 ### Content
 
-A good aricle below from UX Design World about the 3 click and 1 click rule.
+A good article below from UX Design World about the 3 click and 1 click rule.
 
   - [UX Design World](https://uxdworld.com/2020/01/28/3-click-rule-and-usability/)
 
@@ -395,7 +388,7 @@ Readers Digest
 
 also I used Kidadl
 
-  - [Kidadl]](https://kidadl.com/articles/easy-movie-trivia-questions-and-answers-for-family-movie-night)
+  - [Kidadl](https://kidadl.com/articles/easy-movie-trivia-questions-and-answers-for-family-movie-night)
 
 ### Media
 
