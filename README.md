@@ -246,13 +246,13 @@ The screenshot below shows at the bottom of the container there is a restart but
 
 [A view of the quiz game with answers on full screen](assets/screenshots/quiz-answers.jpg)
 
-6) Below 767px the view of the quiz game will only display the quiz container.  I gave the ID's intro and  greetingInput a display: none;.  As these ID's were distorting the page in the lower screen sizes.
+6) I had to add a @media screen and (max-width:982px) so that the intro and greetingInput would not distort the quiz container box with answers.    Below 982px the view of the quiz game with the answers will only display the quiz container.  I gave the ID's intro and  greetingInput a display: none;.  As these ID's were distorting the page in the lower screen sizes.
 
 
-[A view of the quiz game below 982px](assets/screenshots/browser-770.jpg)
+[A view of the quiz game below 982px](assets/screenshots/answers-small.jpg)
 
 
-[A view of first page at 770.40px](assets/screenshots/browser-770.jpg)
+
 
 
 
