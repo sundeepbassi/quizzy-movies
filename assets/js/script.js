@@ -29,7 +29,6 @@ let greetingInput = document.querySelector("#greetingInput");
 /* The function greeting and the greetingInput below are accredited to Keith Paterson Make a simple quiz webpage*/
 
 function greeting() {
-
   headerText.innerHTML = "";
   headerText.innerHTML = "Hello " + userName.value + ", welcome and we hope you enjoy the quiz.";
   greetingInput.style.display = "none";

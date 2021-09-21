@@ -1,6 +1,8 @@
-*, *::before, *::after {
-box-sizing: border-box;
-font-family: Gotham Rounded;
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    font-family: Gotham Rounded;
 }
 
 /* Setting up the styling for the quiz code accredited to Web Dev Simplified, I added my own styling also*/
@@ -33,8 +35,8 @@ body.wrong {
 }
 
 h1 {
-font-size: 40px;
-font-weight: bolder ;
+    font-size: 40px;
+    font-weight: bolder;
 
 }
 
@@ -42,34 +44,36 @@ input {
     height: 30px;
     width: 400px;
 }
+
 /* Intro and greetingInput styles code  implemented and accredited to Keith Peterson Make a simple quiz webpage, 
 it was also  checked on MDN Web Docs for font size and CSS Tricks for positioning*/
 
- #intro { 
-     position: absolute;
-     top: 10px;
- }
-
-#greetingInput { 
-     position: absolute;
-     top: 140px;
+#intro {
+    position: absolute;
+    top: 10px;
 }
 
- 
- 
+#greetingInput {
+    position: absolute;
+    top: 140px;
+}
 
- #submit {
-     
-     --hue: var(--hue-neutral);
-     border: 1px solid hsl(var(--hue), 100%, 30%);
-     background-color: hsl(var(--hue), 100%, 50%);
-     border-radius: 5px;
-     padding: 5px 10px;
-     color: white;
-     outline: none;
-     font-size: 1.5rem;
- }
-  /* Main contaner quiz area styling for container, question  grid and  buttons. code accredited to Web Dev Simplified*/ 
+
+
+
+#submit {
+
+    --hue: var(--hue-neutral);
+    border: 1px solid hsl(var(--hue), 100%, 30%);
+    background-color: hsl(var(--hue), 100%, 50%);
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: white;
+    outline: none;
+    font-size: 1.5rem;
+}
+
+/* Main contaner quiz area styling for container, question  grid and  buttons. code accredited to Web Dev Simplified*/
 
 .container {
     width: 800px;
@@ -81,8 +85,8 @@ it was also  checked on MDN Web Docs for font size and CSS Tricks for positionin
 }
 
 #question {
-font-size: 35px;
-font-weight: bold;
+    font-size: 35px;
+    font-weight: bold;
 }
 
 
@@ -115,13 +119,15 @@ font-weight: bold;
     --hue: var(--hue-wrong);
 }
 
-.start-btn, .next-btn, .btn {
+.start-btn,
+.next-btn,
+.btn {
     font-size: 2rem;
     font-weight: bold;
     padding: 10px 20px;
 }
 
-/* Controls area styling code accredited to Web Dev Simplified */   
+/* Controls area styling code accredited to Web Dev Simplified */
 
 .controls {
     display: flex;
@@ -145,21 +151,21 @@ However I had to adjust the specific elements and styling for them myself */
     }
 
 }
-   
+
 
 @media screen and (max-width:982px) {
     .container h1 {
         width: 40vw;
     }
 
-    #intro { 
+    #intro {
         display: none;
     }
-   
-   #greetingInput { 
+
+    #greetingInput {
         display: none;
-   }
-     
+    }
+
 
 }
 
@@ -167,32 +173,33 @@ However I had to adjust the specific elements and styling for them myself */
     .container {
         width: 40%;
     }
-        #intro { 
-            display: none;
-        }
-       
-       #greetingInput { 
-            display: none;
-       }
-         
-    
 
-       
+    #intro {
+        display: none;
+    }
+
+    #greetingInput {
+        display: none;
+    }
+
+
+
+
 
 
 
 }
 
 @media screen and (max-width:480px) {
-    
-    #intro { 
+
+    #intro {
         display: none;
     }
-   
-   #greetingInput { 
+
+    #greetingInput {
         display: none;
-   }
-     
+    }
+
 
     .container {
         width: 90vw;
@@ -201,5 +208,3 @@ However I had to adjust the specific elements and styling for them myself */
 
 
 }
-
-

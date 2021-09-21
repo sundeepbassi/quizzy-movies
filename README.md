@@ -160,7 +160,7 @@ W3C Mark Up Validation Service
   - The HTML validator check passed successfully as shown in the screenshot below.
 
     - [HTML Passed](assets/screenshots/html-pass2.jpg)  Screenshot taken on the 21 September 2021.
-
+    
   - The CSS validator check passed successfully as shown in the screenshot below.
 
     - [CSS Passed](assets/screenshots/css-pass2.jpg)  Screenshot taken on the 21 September 2021.
@@ -170,32 +170,32 @@ W3C Mark Up Validation Service
 
  1) As a user I want to submit my name.
 
- The screenshot below shows that a user can submit their name into an input box.
+  -  The screenshot below shows that a user can submit their name into an input box.
    
-[Submit Name](assets/screenshots/submit-name.jpg)
+  - [Submit Name](assets/screenshots/submit-name.jpg)
 
-The screenshot below shows the welcome and greeting the user gets with the name that they have submitted.
+  - The screenshot below shows the welcome and greeting the user gets with the name that they have submitted.
 
-[Greeting to User](assets/screenshots/karmarpa8889.jpg)
+  - [Greeting to User](assets/screenshots/karmarpa8889.jpg)
 
 2) As a user I want to play a quiz game about movies.
 
-The screenshot below shows the quiz game that the user can play on. There is a question and 5 answers.
+  - The screenshot below shows the quiz game that the user can play on. There is a question and 5 answers.
 
-[A movie quiz game](assets/screenshots/quiz-movie.jpg)
+  - [A movie quiz game](assets/screenshots/quiz-movie.jpg)
 
 3) As a user I want to know which questions I got correct and those I got incorrect.
 
-The screenshot below shows the correct answer in green and the wrong answers in red.
+  - The screenshot below shows the correct answer in green and the wrong answers in red.
 
-[Correct and incorrect answers](assets/screenshots/answers.jpg)
+  - [Correct and incorrect answers](assets/screenshots/answers.jpg)
 
 4) As a user I want to be able to restart the game at the end.
 
 
-The screenshot below shows at the bottom of the container there is a restart button to begin the game again.
+  - The screenshot below shows at the bottom of the container there is a restart button to begin the game again.
 
-[Restart Button](assets/screenshots/restart.jpg)
+  - [Restart Button](assets/screenshots/restart.jpg)
 
 
 
@@ -217,7 +217,7 @@ The screenshot below shows at the bottom of the container there is a restart but
   Checked on the W3C CSS validation service and I had to rectify 1 error.  The test was repeated and it passed successfully.
 
   Whilst doing a validator check on Jshint for the script file there were 15 warnings reported back. Whilst watching a tutorial from Tiff in Tech she suggested to check on google when faults are reported in jshint. I followed the advice and copied the fault appearing in Jshint was const' is available in ES6 (use 'esversion: 6') or Mozilla JS extensions (use moz). When I googled this warning there was a response in stack overflow to put this at the top of a script file /*jshint esversion: 6 */.
- I did this and 14 warnings were removed off Jshint.
+  I did this and 14 warnings were removed off Jshint.
 
  There was only 1 warning left in jshint A leading decimal point can be confused with a dot: '.5'. and when I googled it I got a response from JSLint error explanations which was to place /*jshint -W008 */ in the top of the script file.
 
@@ -227,29 +227,29 @@ The screenshot below shows at the bottom of the container there is a restart but
 
 1) This is what the first page looks like when it is reduced down to 770.40px screensize.
 
-[A view of first page at 770.40px](assets/screenshots/browser-770.jpg)
+  - [A view of first page at 770.40px](assets/screenshots/browser-770.jpg)
 
 2) Below 767px the view of the first page will only display the start the quiz button.  I gave the ID's intro and  greetingInput a display: none;.  As these ID's were distorting the page in the lower screen sizes.
 
-[A view of first page at a smaller screensize](assets/screenshots/screensize-smaller.jpg)
+  - [A view of first page at a smaller screensize](assets/screenshots/screensize-smaller.jpg)
 
 3) A view of the quiz game at screensize 788px.
 
-[A view of the quiz game at 788px](assets/screenshots/screensize-788.jpg)
+  - [A view of the quiz game at 788px](assets/screenshots/screensize-788.jpg)
 
 4) Below 767px the view of the quiz game will only display the quiz container.  I gave the ID's intro and  greetingInput a display: none;.  As these ID's were distorting the page in the lower screen sizes.
 
 
-[A view of the quiz game at 767.px](assets/screenshots/screensize-767.jpg)
+  - [A view of the quiz game at 767.px](assets/screenshots/screensize-767.jpg)
 
 5) A view of the quiz game with correct and incorrect answers in the full screen.
 
-[A view of the quiz game with answers on full screen](assets/screenshots/quiz-answers.jpg)
+  - [A view of the quiz game with answers on full screen](assets/screenshots/quiz-answers.jpg)
 
 6) I had to add a @media screen and (max-width:982px) so that the intro and greetingInput would not distort the quiz container box with answers.    Below 982px the view of the quiz game with the answers will only display the quiz container.  I gave the ID's intro and  greetingInput a display: none;.  As these ID's were distorting the page in the lower screen sizes.
 
 
-[A view of the quiz game with answers below 982px](assets/screenshots/answers-small.jpg)
+  - [A view of the quiz game with answers below 982px](assets/screenshots/answers-small.jpg)
 
 ## 9. Deployment
 
@@ -268,24 +268,24 @@ The live link can be found here
 
 3) The intro, headerText, greetingInput, userName, submit and greeting are accredited to Keith Paterson Make a simple quiz webpage using HTML JS.
 
-[Keith Paterson](https://www.youtube.com/watch?v=79WRPIknVHs&t=72s)
+  = [Keith Paterson](https://www.youtube.com/watch?v=79WRPIknVHs&t=72s)
 
 4) Intro and greetingInput styles code are accredited to Keith Peterson Make a simple quiz webpage, 
 it was also  checked on MDN Web Docs for font size and CSS Tricks for positioning.
 
-[Keith Paterson](https://www.youtube.com/watch?v=79WRPIknVHs&t=72s)
+  - [Keith Paterson](https://www.youtube.com/watch?v=79WRPIknVHs&t=72s)
 
 5) The 3 let statements in the script file are accredited to Keith Paterson Make a simple quiz webpage.
 
-[Keith Paterson](https://www.youtube.com/watch?v=79WRPIknVHs&t=72s)
+  - [Keith Paterson](https://www.youtube.com/watch?v=79WRPIknVHs&t=72s)
 
 6) The function greeting and the greetingInput are accredited to Keith Paterson Make a simple quiz webpage.
 
-[Keith Paterson](https://www.youtube.com/watch?v=79WRPIknVHs&t=72s)
+  - [Keith Paterson](https://www.youtube.com/watch?v=79WRPIknVHs&t=72s)
 
 7) Setting up questions,answers container,buttons and score for the quiz code in the HTML file are accredited to Web Dev Simplified
 
-[Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k) 
+  - [Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k) 
 
 8) Setting up the style in the css style sheet for the quiz code accredited to Web Dev Simplified and I made adjustments for how to display the quiz.
 
@@ -305,50 +305,50 @@ box-sizing: border-box;
 font-family: Gotham Rounded;
 }, :root, body, body. correct, body.wrong, h1, h2, container, question, btn-grid, btn, btn:hover, btn.correct, btn.wrong,start-btn, next-btn, btn, controls and hide.
 
-[Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k) 
+  - [Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k) 
 
 5) Adjustments to colours checked on MDN Web Docs.
 
-https://developer.mozilla.org/en-US/docs/Web/CSS/background-color
+  - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color)
 
 
 9) Adjustments to font weight and font size was checked on MDN Web Docs.
 
-https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight
+  - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight)
 
 10) For positioning elements.
 
-https://css-tricks.com/almanac/properties/p/position/
+  - [CSS Tricks](https://css-tricks.com/almanac/properties/p/position/)
 
 11) To Set up the media queries to work on all devices and the  Code is accredited to to Merkim dev tutorials. These included
 the @media screen and (max-width:1024px), @media screen and (max-width:768px) and @media screen and (max-width:480px).
 
 However I had to adjust the specific elements responsiveness for them myself.
 
-[Merkim dev tutorials](https://www.youtube.com/watch?v=OLJOEYQfv2U)
+  - [Merkim dev tutorials](https://www.youtube.com/watch?v=OLJOEYQfv2U)
 
 
 12) Setting up the script file  for the quiz code is accredited to Web Dev Simplified
 
-[Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k) 
+  - [Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k) 
 
 13) Implementation of const startButton, const nextButton, const questionContainerElement, const questionElement and 
 const answerButtonsElement is accredited to  Web Dev Simplified.
 
-[Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k) 
+  - [Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k) 
 
 
 14} Implementation of startButton.addEventListener, function startGame() and function setNextQuestion are accredited to accredited to  Web Dev Simplified.
 
-[Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k0) 
+  - [Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k0) 
 
 15) Implementation of function showQuestion(question), function resetState() and function selectAnswer(e) are accredited to accredited to  Web Dev Simplified.
 
-[Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k)
+  - [Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k)
 
 16) Implementation of function setstatusclass, function clearstatusclass and const questions = are accredited to accredited to  Web Dev Simplified.
 
-[Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k) 
+  - [Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k) 
 
 17) To check warnings in JShint I used the following resources:
 
@@ -356,26 +356,26 @@ a) Youtube tutorials
 
 LearningHowToCode TiffInTech
 
-[TiffinTech](https://www.youtube.com/watch?v=5j_v9DldKhU)
+  - [TiffinTech](https://www.youtube.com/watch?v=5j_v9DldKhU)
 
 Web Dev Simplified
 
-[Web Dev Simplified](https://www.youtube.com/watch?v=vP2MNhC_Igw)
+  - [Web Dev Simplified](https://www.youtube.com/watch?v=vP2MNhC_Igw)
 
 
 b) google
 
 c) JS lint error explanations
 
-[JS lint error explanations](http://linterrors.com/js/a-leading-decimal-point-can-be-confused-with-a-dot-a)
+  - [JS lint error explanations](http://linterrors.com/js/a-leading-decimal-point-can-be-confused-with-a-dot-a)
 
 d) Stack Overflow
 
-[Stack Overfow](https://stackoverflow.com/questions/27441803/why-does-jshint-throw-a-warning-if-i-am-using-const)
+  - [Stack Overfow](https://stackoverflow.com/questions/27441803/why-does-jshint-throw-a-warning-if-i-am-using-const)
 
 18) To add Height and width to the input box was checked on w3Schools.
 
-[w3schools](https://www.w3schools.com/css/css_form.asp)
+  - [w3schools](https://www.w3schools.com/css/css_form.asp)
 
 
 
@@ -384,18 +384,18 @@ d) Stack Overflow
 
 A good aricle below from UX Design World about the 3 click and 1 click rule.
 
-[UX Design World](https://uxdworld.com/2020/01/28/3-click-rule-and-usability/)
+  - [UX Design World](https://uxdworld.com/2020/01/28/3-click-rule-and-usability/)
 
 
 The questions and answers for the quiz are accredited to the Readers Digest 100 Movie Trivia Questions and Answers All Movie Lovers Should Know and kidadl movie questions.
 
 Readers Digest
 
-[Readers Digest](https://www.rd.com/article/movie-trivia-facts/)
+  - [Readers Digest](https://www.rd.com/article/movie-trivia-facts/)
 
 also I used Kidadl
 
-[Kidadl]](https://kidadl.com/articles/easy-movie-trivia-questions-and-answers-for-family-movie-night)
+  - [Kidadl]](https://kidadl.com/articles/easy-movie-trivia-questions-and-answers-for-family-movie-night)
 
 ### Media
 
@@ -406,49 +406,49 @@ The layout for setting up the question, answers, container, buttons and score in
 
 Quiz app tutorial with html css and javascript
 
-[Merkim dev tutorials](https://www.youtube.com/watch?v=OLJOEYQfv2U) 
+  - [Merkim dev tutorials](https://www.youtube.com/watch?v=OLJOEYQfv2U) 
 
 The styling of elements in the style.css file is accredited to Merkim dev 
 Quiz app tutorial with html css and javascript
 
-[Merkim dev tutorials](https://www.youtube.com/watch?v=OLJOEYQfv2U)
+  - [Merkim dev tutorials](https://www.youtube.com/watch?v=OLJOEYQfv2U)
 
 
 The setting up of code in the script file is accredited to Merkim dev 
 Quiz app tutorial with html css and javascript
 
-[Merkim dev tutorials](https://www.youtube.com/watch?v=OLJOEYQfv2U)
+  - [Merkim dev tutorials](https://www.youtube.com/watch?v=OLJOEYQfv2U)
 
 The setting up of the array of questions and answers is accredited to Merkim dev 
 Quiz app tutorial with html css and javascript
 
-[Merkim dev tutorials](https://www.youtube.com/watch?v=OLJOEYQfv2U)
+  - [Merkim dev tutorials](https://www.youtube.com/watch?v=OLJOEYQfv2U)
 
 The layout for setting up the questions in the index.Html is accredited to Kevin Briggs Javascript tutorial: make a quiz
 
-[Merkim dev tutorials](https://www.youtube.com/watch?v=C7NsIRhoWuE)
+  - [Merkim dev tutorials](https://www.youtube.com/watch?v=C7NsIRhoWuE)
  
 The Javascript code for creating the variable question is accredited to Kevin Briggs Javascript tutorial: make a quiz
 
 I set the variable var to let as let is used more often as shown in the LMS of Code Institute.
 
-[Kevin Briggs](https://www.youtube.com/watch?v=C7NsIRhoWuE)
+  - [Kevin Briggs](https://www.youtube.com/watch?v=C7NsIRhoWuE)
 
 The Javascript code for creating the variable for messages and if variable score is accredited to Kevin Briggs Javascript tutorial: make a quiz
 
-[Kevin Briggs](https://www.youtube.com/watch?v=C7NsIRhoWuE)
+  - [Kevin Briggs](https://www.youtube.com/watch?v=C7NsIRhoWuE)
 
 The CSS code for creating the style for the quiz is accredited to Kevin Briggs Javascript tutorial: make a quiz
 
-[Kevin Briggs](https://www.youtube.com/watch?v=C7NsIRhoWuE)
+  - [Kevin Briggs](https://www.youtube.com/watch?v=C7NsIRhoWuE)
 
 To add the previous and next buttons is accredited to the W3Schools 
 
-[W3Schools](https://www.w3schools.com/howto/howto_css_next_prev.asp)
+  - [W3Schools](https://www.w3schools.com/howto/howto_css_next_prev.asp)
 
 and to Oston Code Cypher
 
-[Oston Code Cypher](https://www.youtube.com/watch?v=4BBWQzfgaio)
+  - [Oston Code Cypher](https://www.youtube.com/watch?v=4BBWQzfgaio)
 
 The setting up of the hero image code is accredited to the love running video fromn the code institute and it was also placed in my first portfolio project The Wellbeing Retreat.
 
@@ -456,20 +456,20 @@ The code for using css to style the hero image is accredited to the love running
 
 The hero image is accredited to iStock.
 
-[iStock](https://www.istockphoto.com/search/2/image?phrase=cinema)
+  - [iStock](https://www.istockphoto.com/search/2/image?phrase=cinema)
 
 Setting up the logo and Navbar code is accredited to Responsive Navigation Bar Tutorial | HTML CSS JAVASCRIPT by DEV ED 
 
-[DEV ED](https://www.youtube.com/watch?v=gXkqy0b4M5g)
+  - [DEV ED](https://www.youtube.com/watch?v=gXkqy0b4M5g)
 
 Setting up the burger bar and media queries code is accredited to Responsive Navigation Bar Tutorial | HTML CSS JAVASCRIPT by DEV ED 
 
-[DEV ED](https://www.youtube.com/watch?v=gXkqy0b4M5g)
+  - [DEV ED](https://www.youtube.com/watch?v=gXkqy0b4M5g)
 
 
 Setting up the toggle bar  and animate links code is accredited to Responsive Navigation Bar Tutorial | HTML CSS JAVASCRIPT by DEV ED 
 
-[DEV ED](https://www.youtube.com/watch?v=gXkqy0b4M5g)
+  - [DEV ED](https://www.youtube.com/watch?v=gXkqy0b4M5g)
 
 
 The footer code for the html is accredited to the love running video from the Code Institute.
@@ -478,70 +478,66 @@ The footer code for the css is accredited to the love running video from the Cod
 
 The hero image is accredited to iStock.
 
-[iStock](https://www.istockphoto.com/search/2/image?phrase=cinema)
+  - [iStock](https://www.istockphoto.com/search/2/image?phrase=cinema)
 
 Tutorial on how to use wireframes and how to design a user input form at buttom of that page, it would be useful for when designing the quiz website.
 
-[Balsamique](https://balsamiq.com/learn/)
+  - [Balsamique](https://balsamiq.com/learn/)
 
-[Kevin Briggs](https://www.youtube.com/watch?v=C7NsIRhoWuE)  Movie quiz by Kevin Briggs
+  - [Kevin Briggs](https://www.youtube.com/watch?v=C7NsIRhoWuE)  Movie quiz by Kevin Briggs
 
 Information about Typography
 
-[Shape](https://madebyshape.co.uk/web-design-blog/heres-why-typography-is-so-important-for-your-website/)
+  - [Shape](https://madebyshape.co.uk/web-design-blog/heres-why-typography-is-so-important-for-your-website/)
 
-[Hipfonts](https://hipfonts.com/poster-fonts/)
+  - [Hipfonts](https://hipfonts.com/poster-fonts/)
 
 Oscar Winning Font
 
-[Type Network](https://www.typenetwork.com/news/article/yves-peters-demystifies-the-secret-language-of-movie-posters-at-adobe-max-2)
+  - [Type Network](https://www.typenetwork.com/news/article/yves-peters-demystifies-the-secret-language-of-movie-posters-at-adobe-max-2)
 
 
-[Vox](https://www.youtube.com/watch?v=yI4shGV1EsM)
+  - [Vox](https://www.youtube.com/watch?v=yI4shGV1EsM)
 
 Trajan™
 
 Website and projects worth looking at:
 
-[Lasserini](https://github.com/Lasserini/stine-poulsen-psykoterapeut)
+  - [Lasserini](https://github.com/Lasserini/stine-poulsen-psykoterapeut)
 
 This specific website is entirely designed for educational purposes only. Reword it as education project
 
 Build a quiz
 
-[James Q Quick](https://www.youtube.com/watch?v=u98ROZjBWy8)
+  - [James Q Quick](https://www.youtube.com/watch?v=u98ROZjBWy8)
 
 Audrey fullstack 4 project
 
-[Audrey](https://github.com/AudreyLL88/cw-store)
+  - [Audrey](https://github.com/AudreyLL88/cw-store)
 
-[Just Abby](https://github.com/thaysom22/justAbbyH/blob/master/README.md)
+  - [Just Abby](https://github.com/thaysom22/justAbbyH/blob/master/README.md)
 
-Make Fill in the Blank Type Quiz Using Javascript1
-
-
-[](https://www.youtube.com/watch?v=rspS) 12 WCGY
 
 Creating a multiple fill in the blank quiz using html, javascript, and css
 
-[Muhanad Hasan](https://www.youtube.com/watch?v=1SxMWhqYQ4k)
+  - [Muhanad Hasan](https://www.youtube.com/watch?v=1SxMWhqYQ4k)
 
 
 Link below useful for creating buttons in css and next button for the project
 Making a true or false quiz using html, javascript, and css
 
-[Muhanad Hasan](https://www.youtube.com/watch?v=QfPUAwyg3Yo)
+  - [Muhanad Hasan](https://www.youtube.com/watch?v=QfPUAwyg3Yo)
 
 
 Learn JavaScript By Building a Simple Quiz - Part 5
 
 
-[Eduonix Learning Solutions](https://www.youtube.com/watch?v=1ARSZup4eog)
+  - [Eduonix Learning Solutions](https://www.youtube.com/watch?v=1ARSZup4eog)
 
 
 Develop a Quiz App with Javascript - Object Oriented Programming
 
-[Awaiz Mirza](https://www.youtube.com/watch?v=jvk1pFNqXaw&t=386s)
+  - [Awaiz Mirza](https://www.youtube.com/watch?v=jvk1pFNqXaw&t=386s)
 
 
 
@@ -550,7 +546,7 @@ JavaScript Interview Questions & Answers
 
 
 
-[Javascript Interview Questions](https://github.com/sudheerj/javascript-interview-questions#what-are-the-possible-ways-to-create-objects-in-javascript)
+  - [Javascript Interview Questions](https://github.com/sudheerj/javascript-interview-questions#what-are-the-possible-ways-to-create-objects-in-javascript)
 
 
 JavaScript Quiz
