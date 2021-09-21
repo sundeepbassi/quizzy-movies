@@ -94,6 +94,10 @@ Possibility of creating a log in form for potential users with a password access
 
 Checked up on what font is used at the movies and trajan  was the top one developed by Adobe.  However I decided not to use this style.
 
+### Colour Scheme
+
+ [Colour Chart](assets/screenshots/colour-chart.png)
+
 ### Backround Colour
 
 The back ground colour for the whole site has been kept using a hue of hsl(var(--hue), 100%, 94%) and it is a light blue that changes to a light pink when there is an incorrect answer function happens. 
@@ -139,9 +143,15 @@ W3C Mark Up Validation Service
 
   ## 8.1 Code validation
   
-  1) The HTML validator check passed successfullyas shown in the screenshot below.
+  1) The HTML validator check passed successfully as shown in the screenshot below.
 
-  [HTML Passed](assets/screenshots/html-pass2.jpg)
+  [HTML Passed](assets/screenshots/html-pass2.jpg)  Screenshot taken on the 21 September 2021.
+
+  2) The CSS validator check passed successfully as shown in the screenshot below.
+
+
+  [CSS Passed](assets/screenshots/css-pass2.jpg)  Screenshot taken on the 21 September 2021.
+
 
  ##  8.2 Test cases (user story based with screenshots)
 
