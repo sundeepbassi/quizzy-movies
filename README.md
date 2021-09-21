@@ -21,11 +21,7 @@ The goal of the site is to provide a challenging quiz to entertain online users,
 
 3) As a user I want to know which questions I got correct and those I got incorrect.
 
-4) As a user I want to see a variety of questions about movies.
-
-5) As a user I want to be able to use buttons to navigate and use one click to play the game.
-
-6) As a user I want to be able to restart the game at the end.
+4) As a user I want to be able to restart the game at the end.
 
 ## 3. Features
 
@@ -143,6 +139,9 @@ W3C Mark Up Validation Service
 
   ## 8.1 Code validation
   
+  1) The HTML validator check passed successfullyas shown in the screenshot below.
+
+  [HTML Passed](assets/screenshots/html-pass2.jpg)
 
  ##  8.2 Test cases (user story based with screenshots)
 
@@ -166,9 +165,10 @@ The screenshot below shows the quiz game that the user can play on. There is a q
 
 The screenshot below shows the correct answer in green and the wrong answers in red.
 
-[correct and incorrect answers](assets/screenshots/answers.jpg)
+[Correct and incorrect answers](assets/screenshots/answers.jpg)
 
-4) As a user I want to be able to restart the quiz game.
+4) As a user I want to be able to restart the game at the end.
+
 
 The screenshot below shows at the bottom of the container there is a restart button to begin the game again.
 
