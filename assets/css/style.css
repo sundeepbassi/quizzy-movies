@@ -145,7 +145,24 @@ However I had to adjust the specific elements and styling for them myself */
     }
 
 }
-    
+   
+
+@media screen and (max-width:982px) {
+    .container h1 {
+        width: 40vw;
+    }
+
+    #intro { 
+        display: none;
+    }
+   
+   #greetingInput { 
+        display: none;
+   }
+     
+
+}
+
 @media screen and (max-width:768px) {
     .container {
         width: 40%;
