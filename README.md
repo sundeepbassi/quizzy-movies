@@ -308,7 +308,19 @@ The wireframes were done during the planning phase and assisted with the layout 
 
   7) A view of the quiz game on Galaxy S5
 
-  - [A view of the quiz game on a Galaxy S %](assets/screenshots/galaxy.jpg) 
+  - [A view of the quiz game on a Galaxy S](assets/screenshots/galaxy.jpg) 
+
+  8) A view of the quiz on Iphone 6 7 8 plus.
+
+    - [A view of the quiz game on an Iphone 6 7 8 plus](assets/screenshots/iphone678.png) 
+
+    9) A view of the quiz on a Galaxy Fold.
+
+    - [A view of the quiz game on a Galaxy Fold](assets/screenshots/galaxy-fold.png) 
+
+    10) 
+
+
 
 
 ## 9. Deployment
