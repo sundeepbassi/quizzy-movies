@@ -93,7 +93,7 @@
 
 ## 5. Typography and Colour Scheme
 
-- Checked up on what font is used at the movies and trajan  was the top one developed by Adobe.  However I decided not to use this style.
+- Checked up on what font is used at the movies and trajan  was the top one developed by Adobe.  However I decided not to use this style. I used Gotham Rounded.
 
 ### Colour Scheme
 
@@ -115,7 +115,7 @@
 
 - I reswitched back to black and the lighthouse check did not repoert any problems with the background and forefront colours.
 
-- I did change the red background in the incorrect box to a of hue of 24 as my mentor suggested the red and black did not mix ver well.  This new hue of 24 made it look better.
+- I did change the red background in the incorrect box to a of hue of 24 as my mentor suggested the red and black did not mix very well.  This new hue of 24 made it look better.
 
   - [Colour Chart](assets/screenshots/colour-chart.png)
 
@@ -280,45 +280,49 @@ The wireframes were done during the planning phase and assisted with the layout 
 
 ## 8.4 Supported Screens and Browsers
 
-1) This is what the first page looks like when it is reduced down to 770.40px screensize.
+- This is what the first page looks like when it is reduced down to 770.40px screensize.
 
-  - [A view of first page at 770.40px](assets/screenshots/browser-770.jpg)
+    - [A view of first page at 770.40px](assets/screenshots/browser-770.jpg)
 
-2) Below 767px the view of the first page will only display the start the quiz button.  I gave the ID's intro and  greetingInput a display: none;.  As these ID's were distorting the page in the lower screen sizes.
+- Below 767px the view of the first page will only display the start the quiz button.  I gave the ID's intro and  greetingInput a display: none;.  As these ID's were distorting the page in the lower screen sizes.
 
-  - [A view of first page at a smaller screensize](assets/screenshots/screensize-smaller.jpg)
+    - [A view of first page at a smaller screensize](assets/screenshots/screensize-smaller.jpg)
 
-3) A view of the quiz game at screensize 788px.
+- A view of the quiz game at screensize 788px.
 
-  - [A view of the quiz game at 788px](assets/screenshots/screensize-788.jpg)
+    - [A view of the quiz game at 788px](assets/screenshots/screensize-788.jpg)
 
-4) Below 767px the view of the quiz game will only display the quiz container.  I gave the ID's intro and  greetingInput a display: none;.  As these ID's were distorting the page in the lower screen sizes.
-
-
-  - [A view of the quiz game at 767.px](assets/screenshots/screensize-767.jpg)
-
-5) A view of the quiz game with correct and incorrect answers in the full screen.
-
-  - [A view of the quiz game with answers on full screen](assets/screenshots/quiz-answers.jpg)
-
-6) I had to add a @media screen and (max-width:982px) so that the intro and greetingInput would not distort the quiz container box with answers.    Below 982px the view of the quiz game with the answers will only display the quiz container.  I gave the ID's intro and  greetingInput a display: none;.  As these ID's were distorting the page in the lower screen sizes.
+- Below 767px the view of the quiz game will only display the quiz container.  I gave the ID's intro and  greetingInput a display: none;.  As these ID's were distorting the page in the lower screen sizes.
 
 
-  - [A view of the quiz game with answers below 982px](assets/screenshots/answers-small.jpg) 
+    - [A view of the quiz game at 767.px](assets/screenshots/screensize-767.jpg)
 
-  7) A view of the quiz game on Galaxy S5
+- A view of the quiz game with correct and incorrect answers in the full screen.
 
-  - [A view of the quiz game on a Galaxy S](assets/screenshots/galaxy.jpg) 
+    - [A view of the quiz game with answers on full screen](assets/screenshots/quiz-answers.jpg)
 
-  8) A view of the quiz on Iphone 6 7 8 plus.
+- I had to add a @media screen and (max-width:982px) so that the intro and greetingInput would not distort the quiz container box with answers.    Below 982px the view of the quiz game with the answers will only display the quiz container.  I gave the ID's intro and  greetingInput a display: none;.  As these ID's were distorting the page in the lower screen sizes.
+
+
+    - [A view of the quiz game with answers below 982px](assets/screenshots/answers-small.jpg) 
+
+    
+
+- The site was checked on various devices on the Google Developer tools and they appeared to be working good.  I have put some of them below for viewing.
+
+- A view of the quiz game on Galaxy S5
+
+    - [A view of the quiz game on a Galaxy S](assets/screenshots/galaxy.jpg) 
+
+- A view of the quiz on Iphone 6 7 8 plus.
 
     - [A view of the quiz game on an Iphone 6 7 8 plus](assets/screenshots/iphone678.png) 
 
-    9) A view of the quiz on a Galaxy Fold.
+- A view of the quiz on a Galaxy Fold.
 
     - [A view of the quiz game on a Galaxy Fold](assets/screenshots/galaxy-fold.png) 
 
-    10) A view of the quiz on an ipad pro.
+- A view of the quiz on an ipad pro.
 
     - [A view of the quiz game on an ipad pro](assets/screenshots/ipad-pro.png) 
 
