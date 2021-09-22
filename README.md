@@ -318,7 +318,10 @@ The wireframes were done during the planning phase and assisted with the layout 
 
     - [A view of the quiz game on a Galaxy Fold](assets/screenshots/galaxy-fold.png) 
 
-    10) 
+    10) A view of the quiz on an ipad pro.
+
+    - [A view of the quiz game on an ipad pro](assets/screenshots/ipad-pro.png) 
+
 
 
 
