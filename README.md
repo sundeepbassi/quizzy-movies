@@ -131,6 +131,8 @@
 
 ## 6. Wireframes
 
+[](assets/wireframes/wireframe-1.png)
+
 ## 7. Technology
 
   - Html
