@@ -127,7 +127,7 @@
 
 - For Headings one and two and questions the font is black.
 
-- For answers the font is white set against a blue background.
+- For answers the font colour is black set against a blue background and green and red for correct and incorrect answers.
 
 ## 6. Wireframes
 
@@ -202,13 +202,13 @@
 
   - The screenshot below shows the quiz game that the user can play on. There is a question and 5 answers.
 
-  - [A movie quiz game](assets/screenshots/quiz-movie.jpg)
+  - [A Movie Quiz Game](assets/screenshots/quiz-movie.jpg)
 
 3) As a user I want to know which questions I got correct and those I got incorrect.
 
   - The screenshot below shows the correct answer in green and the wrong answers in red.
 
-  - [Correct and incorrect answers](assets/screenshots/answers.jpg)
+  - [Correct and Incorrect Answers](assets/screenshots/answers.jpg)
 
 4) As a user I want to be able to restart the game at the end.
 
@@ -222,26 +222,46 @@
 
   ## 8.3 Fixed bugs
 
-  On the 9th of September, I spoke to my mentor about the layout of the site and how I had to set up the quiz pages as separate files with separate script files with the answers. I explained that I had tried to use the code in one script but it caused a fault.  I had to find a solution and found that creating separate files helped to resolve the problem.  
+  - On the 9th of September, I spoke to my mentor about the layout of the site and how I had to set up the quiz pages as separate files with separate script files with the answers. 
+  
+  - I explained that I had tried to use the code in one script but it caused a fault.  I had to find a solution and found that creating separate files helped to resolve the problem.  
 
-  My mentor advised me to contact the tutors to look into see if I could use a loop in the code so that it was not being repeated.  
+  - My mentor advised me to contact the tutors to look into see if I could use a loop in the code so that it was not being repeated.  
 
-  I checked tutorials on youtube regarding arrays and loops.
+  - I checked tutorials on youtube regarding arrays and loops.
 
-  on the 14th of September there was an error in the console log when clicking the start button.  The error was rectified by ensuring that the buttonStart and the welcome had a . infront of them in their querySelector brackets.
 
-  I spoke to my mentor on the 14th of September and explained how I had tried to create a new project as I could understand how dry repetitive code in many files was not productive.  I explained that I had put a lot of effort into redisgning my project.  During my mid term review with my mentor I explained that I was still not happy with my project and that I would would need to go back to the drawing board and simplify what i could do for the project however I had learnt a lot through the process.
+  - I spoke to my mentor on the 14th of September and explained how I had tried to create a new project as I could understand how dry repetitive code in many files was not productive.  
+  
+  - I explained that I had put a lot of effort into redisgning my project.  - 
+  
+  - During my mid term review with my mentor I explained that I was still not happy with my project and that I would would need to go back to the drawing board and simplify what i could do for the project however I had learnt a lot through the process.
 
-  Checked on w3c Markup Validation service and 2 errors were reported in no closing div tag on line 13. This was rectified and another validation test was conducted and there were no errors or warnings.
+  - Checked on w3c Markup Validation service and 2 errors were reported in no closing div tag on line 13. This was rectified and another validation test was conducted and there were no errors or warnings.
 
-  Checked on the W3C CSS validation service and I had to rectify 1 error.  The test was repeated and it passed successfully.
+  - Checked on the W3C CSS validation service and I had to rectify 1 error.  The test was repeated and it passed successfully.
 
-  Whilst doing a validator check on Jshint for the script file there were 15 warnings reported back. Whilst watching a tutorial from Tiff in Tech she suggested to check on google when faults are reported in jshint. I followed the advice and copied the fault appearing in Jshint was const' is available in ES6 (use 'esversion: 6') or Mozilla JS extensions (use moz). When I googled this warning there was a response in stack overflow to put this at the top of a script file /*jshint esversion: 6 */.
-  I did this and 14 warnings were removed off Jshint.
+  - Whilst doing a validator check on Jshint for the script file there were 15 warnings reported back. 
+  
+  - Whilst watching a tutorial from Tiff in Tech she suggested to check on google when faults are reported in JSHint. 
+  
+  - I followed the advice and copied the fault appearing in Jshint was const' is available in ES6 (use 'esversion: 6') or Mozilla JS extensions (use moz). 
+  
+  - When I googled this warning there was a response in stack overflow to put this at the top of a script file /*jshint esversion: 6 */.
 
- There was only 1 warning left in jshint A leading decimal point can be confused with a dot: '.5'. and when I googled it I got a response from JSLint error explanations which was to place /*jshint -W008 */ in the top of the script file.
+  - I did this and 14 warnings were removed off JSHint.
 
- When I resubmitted the validation check for the script file in JShint it came back with no errors or warnings.
+  - There was only 1 warning left in jshint A leading decimal point can be confused with a dot: '.5'. and when I googled it I got a response from JSHint error explanations which was to place /*jshint -W008 */ in the top of the script file.
+
+  - When I resubmitted the validation check for the script file in JShint it came back with no errors or warnings.
+
+  - On the 21st of September whilst going through the website with my mentor we noticed that the headerText and and the greetingInput were being displayed if the user had not entered a name into the input box.
+
+  - This caused an overlap that did not look good.
+
+  - I resolved the problem by putting headerText.style.display = "none"; greetingInput.style.display = "none"; into the function startGame().
+
+  - Now if the user starts the game without inputting a username the headerText and greetingInput are not displayed. 
 
 ## 8.4 Supported Screens and Browsers
 
