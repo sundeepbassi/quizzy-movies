@@ -10,8 +10,8 @@
 
 :root {
     --hue-neutral: 200;
-    --hue-wrong: 0;
-    --hue-correct: 145;
+    --hue-wrong: 24;
+    --hue-correct: 140;
 }
 
 body {

@@ -111,6 +111,10 @@
 
 - I ran a lighthouse test on google dev tools and it was 83 for accessibility so I decided to change the font colour to black and it went up to 87 for accessibility.
 
+- During mentor meeting we discussed the change of font colour to white, when I used white again the lighthouse check stated that there was not enough contrast with the background and forefront colours. 
+
+- I reswitched back to black and the lighthouse check did not repoert any problems with the background and forefront colours.
+
   - [Colour Chart](assets/screenshots/colour-chart.png)
 
 ### Background Colour
