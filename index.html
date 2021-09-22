@@ -17,7 +17,7 @@
       </div>
       <div id="greetingInput">
          <input id="userName">
-         <button id="submit" onclick="greeting()">Submit</button>
+         <button id="submit" aria-label="Submit" onclick="greeting()">Submit</button>
       </div>
       <!--Main container for quiz, questions and answer buttons-->
       <div class="info"></div>
@@ -25,16 +25,16 @@
          <div id="question-container" class="hide">
             <div id="question">Question</div>
             <div id="answer-buttons" class="btn-grid">
-               <button class="btn">Answer 1</button>
-               <button class="btn">Answer 2</button>
-               <button class="btn">Answer 3</button>
-               <button class="btn">Answer 4</button>
+               <button aria-label="Answer 1" class="btn">Answer 1</button>
+               <button aria-label="Answer 2" class="btn">Answer 2</button>
+               <button aria-label="Answer 3" class="btn">Answer 3</button>
+               <button aria-label="Answer 4" class="btn">Answer 4</button>
             </div>
          </div>
          <!--Controls section to start quiz game and next button-->
          <div class="controls">
-            <button id="start-btn" class="start-btn btn">Start The Quiz</button>
-            <button id="next-btn" class="next-btn btn hide">Next</button>
+            <button aria-label="Start The Quiz" id="start-btn" class="start-btn btn">Start The Quiz</button>
+            <button aria-label="Next" id="next-btn" class="next-btn btn hide">Next</button>
          </div>
       </div>
       <script src="assets/js/script.js"></script>
