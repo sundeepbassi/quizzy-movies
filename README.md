@@ -306,7 +306,7 @@ The wireframes were done during the planning phase and assisted with the layout 
 
     - [A view of the quiz game with answers below 982px](assets/screenshots/answers-small.jpg) 
 
-    
+
 
 - The site was checked on various devices on the Google Developer tools and they appeared to be working good.  I have put some of them below for viewing.
 
@@ -347,7 +347,7 @@ The live link can be found here
 
 3) The intro, headerText, greetingInput, userName, submit and greeting are accredited to Keith Paterson Make a simple quiz webpage using HTML JS.
 
-  = [Keith Paterson](https://www.youtube.com/watch?v=79WRPIknVHs&t=72s)
+  - [Keith Paterson](https://www.youtube.com/watch?v=79WRPIknVHs&t=72s)
 
 4) Intro and greetingInput styles code are accredited to Keith Peterson Make a simple quiz webpage, 
 it was also  checked on MDN Web Docs for font size and CSS Tricks for positioning.
@@ -368,38 +368,39 @@ it was also  checked on MDN Web Docs for font size and CSS Tricks for positionin
 
 8) Setting up the style in the css style sheet for the quiz code accredited to Web Dev Simplified and I made adjustments for how to display the quiz.
 
-The following code in the style css is accredited Web Dev Simplified:
+- The following code in the style css is accredited Web Dev Simplified:
 
-I added the h1 and h2 and set the styling myself with also checked on google on how to position them.
+- I added the h1 and h2 and set the styling myself with also checked on google on how to position them.
 
-I adjusted the Hue colours as I did not want a dark background as I felt it made it look too closed in.
+- I adjusted the Hue colours as I did not want a dark background as I felt it made it look too closed in.
 
-I adjusted the btn-grid and grid-template to rows as I wanted the answer buttons to stack on top of each other so that it 
+- I adjusted the btn-grid and grid-template to rows as I wanted the answer buttons to stack on top of each other so that it 
 enabled the user to have better control.
 
-/* Setting up the styling for the quiz code accredited to Web Dev Simplified, I added my own styling also*/
+- /* Setting up the styling for the quiz code accredited to Web Dev Simplified, I added my own styling also*/
 
-*, *::before, *::after {
-box-sizing: border-box;
-font-family: Gotham Rounded;
-}, :root, body, body. correct, body.wrong, h1, h2, container, question, btn-grid, btn, btn:hover, btn.correct, btn.wrong,start-btn, next-btn, btn, controls and hide.
+- *, *::before, *::after {
+- box-sizing: border-box;
+- font-family: Gotham Rounded;
+- }, :root, body, body. correct, body.wrong, h1, h2, container, question, btn-grid, btn, btn:hover, btn.correct, btn.wrong,--
+    - start-btn, next-btn, btn, controls and hide.
 
   - [Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k) 
 
-5) Adjustments to colours checked on MDN Web Docs.
+9) Adjustments to colours checked on MDN Web Docs.
 
   - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color)
 
 
-9) Adjustments to font weight and font size was checked on MDN Web Docs.
+10) Adjustments to font weight and font size was checked on MDN Web Docs.
 
   - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight)
 
-10) For positioning elements.
+11) For positioning elements.
 
   - [CSS Tricks](https://css-tricks.com/almanac/properties/p/position/)
 
-11) To Set up the media queries to work on all devices and the  Code is accredited to to Merkim dev tutorials. These included
+12) To Set up the media queries to work on all devices and the  Code is accredited to to Merkim dev tutorials. These included
 the @media screen and (max-width:1024px), @media screen and (max-width:768px) and @media screen and (max-width:480px).
 
 However I had to adjust the specific elements responsiveness for them myself.
@@ -407,29 +408,29 @@ However I had to adjust the specific elements responsiveness for them myself.
   - [Merkim dev tutorials](https://www.youtube.com/watch?v=OLJOEYQfv2U)
 
 
-12) Setting up the script file  for the quiz code is accredited to Web Dev Simplified
+13) Setting up the script file  for the quiz code is accredited to Web Dev Simplified
 
   - [Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k) 
 
-13) Implementation of const startButton, const nextButton, const questionContainerElement, const questionElement and 
+14) Implementation of const startButton, const nextButton, const questionContainerElement, const questionElement and 
 const answerButtonsElement is accredited to  Web Dev Simplified.
 
   - [Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k) 
 
 
-14} Implementation of startButton.addEventListener, function startGame() and function setNextQuestion are accredited to accredited to  Web Dev Simplified.
+15} Implementation of startButton.addEventListener, function startGame() and function setNextQuestion are accredited to accredited to  Web Dev Simplified.
 
   - [Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k0) 
 
-15) Implementation of function showQuestion(question), function resetState() and function selectAnswer(e) are accredited to accredited to  Web Dev Simplified.
+16) Implementation of function showQuestion(question), function resetState() and function selectAnswer(e) are accredited to accredited to  Web Dev Simplified.
 
   - [Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k)
 
-16) Implementation of function setstatusclass, function clearstatusclass and const questions = are accredited to accredited to  Web Dev Simplified.
+17) Implementation of function setstatusclass, function clearstatusclass and const questions = are accredited to accredited to  Web Dev Simplified.
 
   - [Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k) 
 
-17) To check warnings in JShint I used the following resources:
+18) To check warnings in JShint I used the following resources:
 
 a) Youtube tutorials
 
@@ -452,7 +453,7 @@ d) Stack Overflow
 
   - [Stack Overfow](https://stackoverflow.com/questions/27441803/why-does-jshint-throw-a-warning-if-i-am-using-const)
 
-18) To add Height and width to the input box was checked on w3Schools.
+19) To add Height and width to the input box was checked on w3Schools.
 
   - [w3schools](https://www.w3schools.com/css/css_form.asp)
 
@@ -636,6 +637,9 @@ Building a Multiple Choice Quiz | Javascript | Tutorial 24
 
 [Mike Dane](https://www.youtube.com/watch?v=LQGTb112N_c)
 
+[Simple Steps Code](https://simplestepscode.com/javascript-quiz-tutorial/)
+
+
 ### Disclaimer
 
 This website and content has been created for educational purposes only.  All information, code and external resources have been accredited in the readme for purposes of comment, research and scholarship.
@@ -646,24 +650,15 @@ This website and content has been created for educational purposes only.  All in
 [UK Copyright Service](https://www.rd.cohttps://copyrightservice.co.uk/_f/7616/1882/9839/edupack.pdfm/article/movie-trivia-facts/)
 
 
-### Disclaimer
-
-This website and content has been created for educational purposes only.  All information, code and external resources have been accredited in the readme for purposes of comment, research and scholarship.
-
-https://copyrightservice.co.uk/_f/7616/1882/9839/edupack.pdf
-
-
-https://www.rd.cohttps://copyrightservice.co.uk/_f/7616/1882/9839/edupack.pdfm/article/movie-trivia-facts/
-
-[Simple Steps Code](https://simplestepscode.com/javascript-quiz-tutorial/)
-
 #### Acknowledgements
 
- I would like to thank my mentor Excellence LLesanmi for pushing me to do my best and to do it with excellence. Excellence has challenged me to really think about the project in detail and how the mechanisms and functions all fit and work together. Through Excellences wisdom and insights, I have been able to better understand the interactivity of incorparating Javascript into the project. I am very grateful for having a brilliant mentor that empowers me to think more constructively and to use my skills more effectively.
+ I would like to thank my mentor Excellence Ilesanmi for pushing me to do my best and to do it with excellence. Excellence has challenged me to really think about the project in detail and how the mechanisms and functions all fit and work together. Through Excellences wisdom and insights, I have been able to better understand the interactivity of incorparating Javascript into the project. I am very grateful for having a brilliant mentor that empowers me to think more constructively and to use my skills more effectively.
 
  I would like to thank the assessor that assessed my first portfolio project The Wellbeing Retreat for giving me excellent feedback for reflecting on how I performed with the first project.  I found the comments really helped to look at how I developed that project and where I could make improvements. 
 
+I would like to thank student care and the slack community at the code institue for their ongoing support.
 
+I would like to thank my dog Mitzy who stayed by my side during the project.
 
 
 
