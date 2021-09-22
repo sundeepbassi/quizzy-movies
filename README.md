@@ -131,7 +131,15 @@
 
 ## 6. Wireframes
 
-[](assets/wireframes/wireframe-1.png)
+  - [Wireframe 1](assets/wireframes/wire-1.png)
+
+
+  - [Wireframe 2](assets/wireframes/wire-2.png)
+
+
+  - [Wireframe 1](assets/wireframes/wire-1.png)
+
+
 
 ## 7. Technology
 
