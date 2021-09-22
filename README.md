@@ -115,6 +115,8 @@
 
 - I reswitched back to black and the lighthouse check did not repoert any problems with the background and forefront colours.
 
+- I did change the red background in the incorrect box to a of hue of 24 as my mentor suggested the red and black did not mix ver well.  This new hue of 24 made it look better.
+
   - [Colour Chart](assets/screenshots/colour-chart.png)
 
 ### Background Colour

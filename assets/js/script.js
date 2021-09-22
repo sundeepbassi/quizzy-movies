@@ -39,6 +39,8 @@ function greeting() {
 
 function startGame() {
   startButton.classList.add('hide');
+  headerText.style.display = "none";
+  greetingInput.style.display = "none";
   shuffledQuestions = questions.sort(() => Math.random() - .5);
   currentQuestionIndex = 0;
   questionContainerElement.classList.remove('hide');
