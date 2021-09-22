@@ -304,7 +304,12 @@ The wireframes were done during the planning phase and assisted with the layout 
 6) I had to add a @media screen and (max-width:982px) so that the intro and greetingInput would not distort the quiz container box with answers.    Below 982px the view of the quiz game with the answers will only display the quiz container.  I gave the ID's intro and  greetingInput a display: none;.  As these ID's were distorting the page in the lower screen sizes.
 
 
-  - [A view of the quiz game with answers below 982px](assets/screenshots/answers-small.jpg)
+  - [A view of the quiz game with answers below 982px](assets/screenshots/answers-small.jpg) 
+
+  7) A view of the quiz game on Galaxy S5
+
+  - [A view of the quiz game on a Galaxy S %](assets/screenshots/galaxy.jpg) 
+
 
 ## 9. Deployment
 
