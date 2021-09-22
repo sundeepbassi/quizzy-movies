@@ -20,7 +20,7 @@
 
 2) As a user I want to play a quiz game about movies.
 
-3) As a user I want to know which questions I got correct and those I got incorrect.
+3) As a user I want to know which questions I got correct and those that I got incorrect.
 
 4) As a user I want to be able to restart the game at the end.
 
@@ -39,15 +39,18 @@
 
 - A start the quiz button, for the user to start the quiz game.
 
-- A next button this is placed at the bottom of the quiz game cards box and it enables the user to go to the next game. 
+- A next button this is placed at the bottom of the quiz game container box and it enables the user to go to the next game. 
 
-- A restart button at the end of the game, is displayed at the botttom of the quiz card and the user can then restart the game.
+- A restart button at the end of the game, is displayed at the botttom of the quiz container and the user can then restart 
+  the game.
 
-- Theses button functions enable the user to remain focused on the quiz. The aim is to enable the user to click once for each action so as to keep the user engaged with the quiz game. 
+- These button functions enable the user to remain focused on the quiz. The aim is to enable the user to click once for 
+  each action so as to keep the user engaged with the quiz game. 
 
 - In my research into good user experience design I looked at the 3 click rule and the 1 click rule. 
 
-- There is further information in the credits about this. I stuck to the 1 click rule because as it is a quiz game I want the user to feel in control with clicking once and not getting frustrated.
+- There is further information in the credits about this. I stuck to the 1 click rule because as it is a quiz game I want 
+  the user to feel in control with clicking once and not getting frustrated.
 
 - It will also bring the user closer to their destination as stated in the article in the credits section and in the link below.
 
@@ -75,13 +78,13 @@
 
 - The main container box area is used to incorporate both the questions and answers.
 
-- The questions are at the top in the box.
+- The questions are at the top of the container box.
 
 - There are 4 answers in the four blue buttons and the user can click one of the buttons to reveal the answer.
 
-- The correct answer will appear in a green button box and the incorrect answers will appear in a red button boxes.
+- The correct answer will appear in a green button box and the incorrect answers will appear in a red button box.
 
-- There is a next button located at the bottom in the box and this will take the user to a new game box.
+- There is a next button located at the bottom of the box and this will take the user to a new game box.
 
 - At the end of the game there is a restart button that the user can click to play the game again.
 
@@ -115,19 +118,19 @@
 
 - I reswitched back to black and the lighthouse check did not repoert any problems with the background and forefront colours.
 
-- I did change the red background in the incorrect box to a of hue of 24 as my mentor suggested the red and black did not mix very well.  This new hue of 24 made it look better.
+- I did change the red background in the incorrect box to a hue of 24 as my mentor suggested that the red and black did not mix very well.  This new hue of 24 made it look better.
 
   - [Colour Chart](assets/screenshots/colour-chart.png)
 
 ### Background Colour
 
-- The back ground colour for the whole site has been kept using a hue of hsl(var(--hue), 100%, 94%) and it is a light blue that changes to a light pink when there is an incorrect answer function happens. 
+- The back ground colour for the whole site has been kept using a hue of hsl(var(--hue), 100%, 94%) and it is a light blue that changes to a light pink when there is an incorrect answer function happening. 
 
 ### Font colour
 
-- For Headings one and two and questions the font is black.
+- For the headings one and two and the questions the font is black.
 
-- For answers the font colour is black set against a blue background and green and red for correct and incorrect answers.
+- For the answers the font colour is black set against a blue background.  The black font is also used with the background colours green and red for the correct and incorrect answers.
 
 ## 6. Wireframes
 
@@ -185,7 +188,7 @@ The wireframes were done during the planning phase and assisted with the layout 
 
 
   - The Javascript validator reported  that there was one unused variable 31 greeting.  I showed my mentor and we checked both
-  the HTML and the script file and my mentor explained that this warning can be ignored because greeting has been defined in the HTML file as a function. 
+  the HTML and the script file and my mentor explained that this warning can be ignored because greeting has been defined in the HTML file as a function. My mentor told me to write this in the readme.
 
 
 - Metrics
@@ -215,11 +218,11 @@ The wireframes were done during the planning phase and assisted with the layout 
 
 2) As a user I want to play a quiz game about movies.
 
-  - The screenshot below shows the quiz game that the user can play on. There is a question and 5 answers.
+  - The screenshot below shows the quiz game that the user can play on. There is a question and 4 answers.
 
   - [A Movie Quiz Game](assets/screenshots/quiz-movie.jpg)
 
-3) As a user I want to know which questions I got correct and those I got incorrect.
+3) As a user I want to know which questions I got correct and those that I got incorrect.
 
   - The screenshot below shows the correct answer in green and the wrong answers in red.
 
@@ -228,7 +231,7 @@ The wireframes were done during the planning phase and assisted with the layout 
 4) As a user I want to be able to restart the game at the end.
 
 
-  - The screenshot below shows at the bottom of the container there is a restart button to begin the game again.
+  - The screenshot below, shows at the bottom of the container, that there is a restart button to begin the game again.
 
   - [Restart Button](assets/screenshots/restart.jpg)
 
@@ -241,16 +244,15 @@ The wireframes were done during the planning phase and assisted with the layout 
   
   - I explained that I had tried to use the code in one script but it caused a fault.  I had to find a solution and found that creating separate files helped to resolve the problem.  
 
-  - My mentor advised me to contact the tutors to look into see if I could use a loop in the code so that it was not being repeated.  
+  - My mentor advised me to contact the tutors to consider if I could use a loop in the code so that it was not being repeated.  
 
   - I checked tutorials on youtube regarding arrays and loops.
-
 
   - I spoke to my mentor on the 14th of September and explained how I had tried to create a new project as I could understand how dry repetitive code in many files was not productive.  
   
   - I explained that I had put a lot of effort into redisgning my project.  - 
   
-  - During my mid term review with my mentor I explained that I was still not happy with my project and that I would would need to go back to the drawing board and simplify what i could do for the project however I had learnt a lot through the process.
+  - During my mid term review with my mentor I explained that I was still not happy with my project and that I would would need to go back to the drawing board and simplify the project. however I had learnt a lot through the process.
 
   - Checked on w3c Markup Validation service and 2 errors were reported in no closing div tag on line 13. This was rectified and another validation test was conducted and there were no errors or warnings.
 
@@ -258,9 +260,9 @@ The wireframes were done during the planning phase and assisted with the layout 
 
   - Whilst doing a validator check on Jshint for the script file there were 15 warnings reported back. 
   
-  - Whilst watching a tutorial from Tiff in Tech she suggested to check on google when faults are reported in JSHint. 
+  - Whilst watching a tutorial from Tiff in Tech, she suggested to check on google when faults are reported in JSHint. 
   
-  - I followed the advice and copied the fault appearing in Jshint was const' is available in ES6 (use 'esversion: 6') or Mozilla JS extensions (use moz). 
+  - I followed the advice and copied the fault appearing in Jshint that was const' is available in ES6 (use 'esversion: 6') or Mozilla JS extensions (use moz). 
   
   - When I googled this warning there was a response in stack overflow to put this at the top of a script file /*jshint esversion: 6 */.
 
@@ -270,7 +272,7 @@ The wireframes were done during the planning phase and assisted with the layout 
 
   - When I resubmitted the validation check for the script file in JShint it came back with no errors or warnings.
 
-  - On the 21st of September whilst going through the website with my mentor we noticed that the headerText and and the greetingInput were being displayed if the user had not entered a name into the input box.
+  - On the 21st of September whilst going through the website with my mentor we noticed that the headerText and the greetingInput were being displayed even if the user had not entered a name into the input box.
 
   - This caused an overlap that did not look good.
 
@@ -350,7 +352,7 @@ The live link can be found here
   - [Keith Paterson](https://www.youtube.com/watch?v=79WRPIknVHs&t=72s)
 
 4) Intro and greetingInput styles code are accredited to Keith Peterson Make a simple quiz webpage, 
-it was also  checked on MDN Web Docs for font size and CSS Tricks for positioning.
+it was also checked on MDN Web Docs for font size and CSS Tricks for positioning.
 
   - [Keith Paterson](https://www.youtube.com/watch?v=79WRPIknVHs&t=72s)
 
@@ -379,11 +381,11 @@ enabled the user to have better control.
 
 - /* Setting up the styling for the quiz code accredited to Web Dev Simplified, I added my own styling also*/
 
-- *, *::before, *::after {
-- box-sizing: border-box;
-- font-family: Gotham Rounded;
-- }, :root, body, body. correct, body.wrong, h1, h2, container, question, btn-grid, btn, btn:hover, btn.correct, btn.wrong,--
-    - start-btn, next-btn, btn, controls and hide.
+  - *, *::before, *::after {
+    box-sizing: border-box;
+    font-family: Gotham Rounded;
+    }, :root, body, body. correct, body.wrong, h1, h2, container, question, btn-grid, btn, btn:hover, btn.correct, btn.wrong,--
+    start-btn, next-btn, btn, controls and hide.
 
   - [Web Dev Simplified](https://www.youtube.com/watch?v=riDzcEQbX6k) 
 
@@ -459,7 +461,6 @@ d) Stack Overflow
 
 
 
-
 ### Content
 
 A good article below from UX Design World about the 3 click and 1 click rule.
@@ -476,6 +477,8 @@ Readers Digest
 also I used Kidadl
 
   - [Kidadl](https://kidadl.com/articles/easy-movie-trivia-questions-and-answers-for-family-movie-night)
+
+
 
 ### Media
 
@@ -619,12 +622,7 @@ Develop a Quiz App with Javascript - Object Oriented Programming
 
   - [Awaiz Mirza](https://www.youtube.com/watch?v=jvk1pFNqXaw&t=386s)
 
-
-
 JavaScript Interview Questions & Answers
-
-
-
 
   - [Javascript Interview Questions](https://github.com/sudheerj/javascript-interview-questions#what-are-the-possible-ways-to-create-objects-in-javascript)
 
@@ -650,15 +648,17 @@ This website and content has been created for educational purposes only.  All in
 [UK Copyright Service](https://www.rd.cohttps://copyrightservice.co.uk/_f/7616/1882/9839/edupack.pdfm/article/movie-trivia-facts/)
 
 
-#### Acknowledgements
+### Acknowledgements
 
  I would like to thank my mentor Excellence Ilesanmi for pushing me to do my best and to do it with excellence. Excellence has challenged me to really think about the project in detail and how the mechanisms and functions all fit and work together. Through Excellences wisdom and insights, I have been able to better understand the interactivity of incorparating Javascript into the project. I am very grateful for having a brilliant mentor that empowers me to think more constructively and to use my skills more effectively.
 
- I would like to thank the assessor that assessed my first portfolio project The Wellbeing Retreat for giving me excellent feedback for reflecting on how I performed with the first project.  I found the comments really helped to look at how I developed that project and where I could make improvements. 
+ I would like to thank the assessor that assessed my first portfolio project The Wellbeing Retreat for giving me excellent feedback and this enabled me to reflect on how I performed with the first project.  I found the comments really helped me to look at how I developed that project and where I could make improvements. 
 
-I would like to thank student care and the slack community at the code institue for their ongoing support.
+I would like to thank student care and the slack community at the code institue for their ongoing support. Alex, Kieron and Aoife have been very supportive from student care and sent me videos to help me. They have been very positive and encouraged me to do my best.
 
-I would like to thank my dog Mitzy who stayed by my side during the project.
+I would like to thank my dog Mitzy who stayed by my side during the project, she sits with me and keeps me calm and we carry on coding. 
+
+Thank you to Holly, my dearest and bestest friend who has fed me, cared for me and been a good support during this project.
 
 
 
