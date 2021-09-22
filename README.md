@@ -137,7 +137,10 @@
   - [Wireframe 2](assets/wireframes/wire-2.png)
 
 
-  - [Wireframe 1](assets/wireframes/wire-1.png)
+  - [Wireframe 3](assets/wireframes/wire-3.png)
+
+
+  - [Wireframe 4](assets/wireframes/wire-4.png)
 
 
 
