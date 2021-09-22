@@ -131,6 +131,8 @@
 
 ## 6. Wireframes
 
+The wireframes were done during the planning phase and assisted with the layout desired for the site.   Since then I have made alterations.
+
   - [Wireframe 1](assets/wireframes/wire-1.png)
 
 
