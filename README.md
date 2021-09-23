@@ -212,6 +212,8 @@ I did a lighthouse test on google dev tools and I got 87 in my accessibility. I 
 
 [Lighthouse Test](assets/screenshots/lighthouse.png)
 
+[MDN Web Docs for aria-label](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute)
+
  ##  8.2 Test cases (user story based with screenshots)
 
  1) As a user I want to submit my name.
