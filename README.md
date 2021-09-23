@@ -465,7 +465,7 @@ d) Stack Overflow
 
   - [w3schools](https://www.w3schools.com/css/css_form.asp)
 
-
+20) For the readme I also give accreditation to my mentor for advising me on how to make it more presentable and to the love maths readme document from the Code Institute.
 
 ### Content
 
