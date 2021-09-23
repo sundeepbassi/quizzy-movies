@@ -208,7 +208,9 @@ The wireframes were done during the planning phase and assisted with the layout 
 
     - [JSHint](assets/screenshots/javascript-valid.jpg)  Screenshot taken on the 21 September 2021.
 
+I did a lighthouse test on google dev tools and I got 87 in my accessibility. I contacted the tutors for support and they forwarded me a link. The tutors also said that the test was not mandatory for the project, however I did want to make the site more accessible for people with specific needs.  I did not understand the link that was sent to me and if I had more time I would look into it further.
 
+[Lighthouse Test](assets/screenshots/lighthouse.png)
 
  ##  8.2 Test cases (user story based with screenshots)
 
@@ -256,9 +258,9 @@ The wireframes were done during the planning phase and assisted with the layout 
 
   - I spoke to my mentor on the 14th of September and explained how I had tried to create a new project as I could understand how dry repetitive code in many files was not productive.  
   
-  - I explained that I had put a lot of effort into redisgning my project.  - 
+  - I explained that I had put a lot of effort into redisgning my project.   
   
-  - During my mid term review with my mentor I explained that I was still not happy with my project and that I would would need to go back to the drawing board and simplify the project. however I had learnt a lot through the process.
+  - During my mid term review with my mentor, I explained that I was still not happy with my project and that I would would need to go back to the drawing board and simplify the project. however I had learnt a lot through the process.
 
   - Checked on w3c Markup Validation service and 2 errors were reported in no closing div tag on line 13. This was rectified and another validation test was conducted and there were no errors or warnings.
 
