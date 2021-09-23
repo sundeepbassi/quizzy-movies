@@ -1,4 +1,10 @@
-# Readme
+
+
+
+
+# Quizzy  Movies
+
+Quizzy Movies incorparates the functionality of Javascript and shows how it can be used in a quiz game for movie lovers. Quizzy movies targets people who have an interest in the use of javascript and enjoy playing quiz movies. Quizzy Movies is a fully responsive Javascript quiz game that will allow users to select answers to specific questions.  The game aims to be both fun and challenging. The game was also designed to assist those with accessibilty needs.
 
 ## 1. Purpose of the Project
 
